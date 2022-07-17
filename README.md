@@ -1,6 +1,8 @@
 # Admin Dashboards
 
-**[Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source/)** coded / generated on top of various frameworks: `Flask`, `Django`, `React` and released under permissive licenses: MIT, LGPL - Provided by AppSeed.us. All dashboards are actively supported and the source code can be downloaded from Github (no account required). 
+A curated list with **Open-Source Dashboards**, released under the MIT license and actively supported by the publishers. All mentioned templates can be used in commercial products and eLearning activities.  
+
+> Curated by [Sm0ke](https://twitter.com/Sm0keDev)
 
 <br />
 
