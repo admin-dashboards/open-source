@@ -1,4 +1,4 @@
-# Admin Dashboards
+# Free Admin Dashboards
 
 A curated list with **Open-Source Dashboards**, released under the MIT license and actively supported by the publishers. All mentioned templates can be used in commercial products and eLearning activities.  
 
