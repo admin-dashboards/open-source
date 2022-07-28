@@ -6,6 +6,18 @@ A curated list with **Open-Source Dashboards**, released under the MIT license a
 
 <br />
 
+
+## ✨ [Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-react?AFFILIATE=128200) `React`
+
+Start your Development with an Innovative Admin Template for `MUI` and `React`. If you like the look & feel of the hottest design trend right now, **Soft UI**, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
+
+- 👉 [Soft UI Dashboard React](https://www.creative-tim.com/product/soft-ui-dashboard-react?AFFILIATE=128200) - `product page`
+- 👉 [Soft UI Dashboard React](https://demos.creative-tim.com/soft-ui-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
+
+![Soft UI Dashboard React - Open-Source React Dashboard Template from Creative-Tim](https://user-images.githubusercontent.com/51854817/177595511-1c8d6a14-a9b1-478e-b0db-762f8b900f9e.png)
+
+<br />
+
 ## ✨ [Muse Ant.Design](https://www.creative-tim.com/product/muse-ant-design-dashboard?AFFILIATE=128200) `React`
 
 Muse Ant Design Dashboard is a free Admin Template based on two popular front-end technologies: Ant Design & React. It was built to simplify the developer's work and is comes with a fresh design inspired by Ant Design. All its components are built to fit perfectly with each other, while aligning to the Ant Design concepts.
@@ -25,18 +37,6 @@ Designed for those who like bold elements and beautiful websites, Material Dashb
 - 👉 [Material Dashboard 2](https://demos.creative-tim.com/material-dashboard/pages/dashboard.html?AFFILIATE=128200) - `LIVE demo` 
 
 ![Material Dashboard 2 - Free admin dashboard crafted by Creative-Tim.](https://user-images.githubusercontent.com/51854817/179171185-300d44ba-ccc6-4213-a249-5bf39b2766c0.png)
-
-<br />
-
-
-## ✨ [Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-react?AFFILIATE=128200) `React`
-
-Start your Development with an Innovative Admin Template for `MUI` and `React`. If you like the look & feel of the hottest design trend right now, **Soft UI**, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
-
-- 👉 [Soft UI Dashboard React](https://www.creative-tim.com/product/soft-ui-dashboard-react?AFFILIATE=128200) - `product page`
-- 👉 [Soft UI Dashboard React](https://demos.creative-tim.com/soft-ui-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
-
-![Soft UI Dashboard React - Open-Source React Dashboard Template from Creative-Tim](https://user-images.githubusercontent.com/51854817/177595511-1c8d6a14-a9b1-478e-b0db-762f8b900f9e.png)
 
 <br />
 
