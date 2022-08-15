@@ -1,6 +1,6 @@
-# Free Admin Dashboards
+# Free [Admin Dashboards](https://www.admin-dashboards.com/)
 
-A curated list with **Open-Source Dashboards**, released under the MIT license and actively supported by the publishers. All mentioned templates can be used in commercial products and eLearning activities.  
+A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/)**, released under the MIT license and actively supported by the publishers. All mentioned templates can be used in commercial products and eLearning activities.  
 
 > Curated by [Sm0ke](https://twitter.com/Sm0keDev)
 
@@ -186,4 +186,4 @@ Material Dashboard 2 React is our newest free MUI Admin Template based on React.
 <br />
 
 --- 
-**[Free Admin Dashboards](https://appseed.us/admin-dashboards/open-source)** - Provided by **AppSeed - [App Generator](https://appseed.us/app-generator)**
+Free [Admin Dashboards](https://www.admin-dashboards.com/) - Provided by **AppSeed - [App Generator](https://appseed.us/app-generator)**
