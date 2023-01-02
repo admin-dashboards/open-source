@@ -6,14 +6,6 @@ A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/
 
 <br />
 
-## 🎁 `PROMO` [Best Deals for Developers](https://www.admin-dashboards.com/best-deals-for-developers/) - Up to `80%OFF`
-
-Because 2022 is almost over and we all knew that was a super challenging year for all of us (freelancers, entrepreneurs, all-size companies) this article aims to highlight the **best deals for developers** that might help us to start amazing projects in 2023 at the lower cost possible.
-
-[![Best Deals For Programmers and Freelancers - Provided by AppSeed, CodedThemes, Creatuve-Tim, WrapPixel and BootstrapDash.](https://user-images.githubusercontent.com/51070104/209994947-ed4b33dd-f269-4043-8432-2c01a53e0f6b.jpg)](https://www.admin-dashboards.com/best-deals-for-developers/)
-
-<br />
-
 ## ✨ [Django Bootstrap 5 Volt](https://appseed.us/product/volt-dashboard/django/)
 
 **[Volt Dashboard](https://appseed.us/generator/volt-dashboard/)** is a free and open source `Bootstrap 5` Admin Dashboard featuring over 100 components, 11 example pages and 3 plugins with Vanilla JS. There are more than 100 free Bootstrap 5 components included some of them being buttons, alerts, modals, datepickers and so on.
