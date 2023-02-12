@@ -6,9 +6,9 @@ A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/
 
 <br />
 
-# [React Purity Dashboard](https://appseed.us/product/purity-dashboard/api-server-nodejs/react/)
+# [React Purity Dashboard](https://appseed.us/product/purity-dashboard/api-server-nodejs/react/) `full-stack`
 
-Start your Development with an Innovative Admin Template for **Chakra UI** and **React**. [Purity UI Dashboard](https://appseed.us/product/purity-dashboard/api-server-nodejs/react/) is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using Chakra's style props - **Designed by [Creative-Tim](https://www.creative-tim.com/?AFFILIATE=128200)** 
+Start your Development with an Innovative Admin Template for **Chakra UI** and **React**. [Purity UI Dashboard](https://appseed.us/product/purity-dashboard/api-server-nodejs/react/) is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using Chakra's style props - **Designed by [Creative-Tim](https://www.creative-tim.com/?AFFILIATE=128200)**.
 
 The product comes with a `simple JWT authentication` flow: login/register/logout. 
 
