@@ -6,6 +6,16 @@ A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/
 
 <br />
 
+## ✨ [Flexy Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157) `React`
+
+Flexy Free `React`/Nextjs version is built with the most popular `React` Framework: **Material-UI**. The free version comes with an elegant grid design that helps you play around with the look and feel of the web app the way you want. it's a carefully hand-crafted minimal admin template built with modular and modern design.
+
+> 👉 [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157) - `product page`
+
+![Flexy React Material Admin - Open-source React template.](https://user-images.githubusercontent.com/51070104/175769752-ab24a64a-15ba-4fcf-8dcd-13a8e755277b.jpg)
+
+<br />
+
 # [React Purity Dashboard](https://appseed.us/product/purity-dashboard/api-server-nodejs/react/) `full-stack`
 
 Start your Development with an Innovative Admin Template for **Chakra UI** and **React**. [Purity UI Dashboard](https://appseed.us/product/purity-dashboard/api-server-nodejs/react/) is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using Chakra's style props - **Designed by [Creative-Tim](https://www.creative-tim.com/?AFFILIATE=128200)**.
@@ -27,16 +37,6 @@ Designed for those who like bold elements and beautiful websites, Material Dashb
 - 👉 [Material Dashboard 2](https://demos.creative-tim.com/material-dashboard/pages/dashboard.html?AFFILIATE=128200) - `LIVE demo` 
 
 ![Material Dashboard 2 - Free admin dashboard crafted by Creative-Tim.](https://user-images.githubusercontent.com/51854817/179171185-300d44ba-ccc6-4213-a249-5bf39b2766c0.png)
-
-<br />
-
-## ✨ [Flexy Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157) `React`
-
-Flexy Free `React`/Nextjs version is built with the most popular `React` Framework: **Material-UI**. The free version comes with an elegant grid design that helps you play around with the look and feel of the web app the way you want. it's a carefully hand-crafted minimal admin template built with modular and modern design.
-
-> 👉 [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157) - `product page`
-
-![Flexy React Material Admin - Open-source React template.](https://user-images.githubusercontent.com/51070104/175769752-ab24a64a-15ba-4fcf-8dcd-13a8e755277b.jpg)
 
 <br />
 
