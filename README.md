@@ -6,6 +6,14 @@ A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/
 
 <br />
 
+## 🚀 `PROMO` [Spring Boost Campaign](https://appseed.us/discounts/) `50%OFF`
+
+> The **discount is applicable to all products and licenses** (no stock limits) until `15.MAR`
+
+[![Spring Boost Campaign](https://user-images.githubusercontent.com/51070104/221118889-171c5afc-4d01-402b-8681-61b37338e26c.png)](https://appseed.us/discounts/)
+
+<br />
+
 ## ✨ [Black Dashboard](https://www.creative-tim.com/product/black-dashboard-react?AFFILIATE=128200) `React`
 
 Black Dashboard React is a beautiful Bootstrap 4 (Reactstrap) Admin Dashboard with a huge number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
