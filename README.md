@@ -2,7 +2,7 @@
 
 A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/)**, released under the MIT license and actively supported by the publishers. All mentioned templates can be used in commercial products and eLearning activities.  
 
-> Curated by [Sm0ke](https://twitter.com/Sm0keDev)
+> Curated by [Sm0ke](https://twitter.com/Sm0keDev) from 🚀 [HackLand](https://appseed.us/) 
 
 <br />
 
