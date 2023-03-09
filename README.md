@@ -6,6 +6,16 @@ A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/
 
 <br />
 
+## ✨ [Flexy Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157) `React`
+
+Flexy Free `React`/Nextjs version is built with the most popular `React` Framework: **Material-UI**. The free version comes with an elegant grid design that helps you play around with the look and feel of the web app the way you want. it's a carefully hand-crafted minimal admin template built with modular and modern design.
+
+> 👉 [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157) - `product page`
+
+![Flexy React Material Admin - Open-source React template.](https://user-images.githubusercontent.com/51070104/175769752-ab24a64a-15ba-4fcf-8dcd-13a8e755277b.jpg)
+
+<br />
+
 ## ✨ [Tailwind CSS React](https://www.creative-tim.com/product/material-tailwind-dashboard-react?AFFILIATE=128200) `Free Dashboard`
 
 This innovative `Material Design`, **Tailwind CSS & React** dashboard comes with a beautiful design inspired by Google's Material Design and it will help you create stunning websites & web apps to delight your clients.
@@ -65,27 +75,6 @@ The product comes with a `simple JWT authentication` flow: login/register/logout
 
 <br />
 
-## ✨ [Flexy Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157) `React`
-
-Flexy Free `React`/Nextjs version is built with the most popular `React` Framework: **Material-UI**. The free version comes with an elegant grid design that helps you play around with the look and feel of the web app the way you want. it's a carefully hand-crafted minimal admin template built with modular and modern design.
-
-> 👉 [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157) - `product page`
-
-![Flexy React Material Admin - Open-source React template.](https://user-images.githubusercontent.com/51070104/175769752-ab24a64a-15ba-4fcf-8dcd-13a8e755277b.jpg)
-
-<br />
-
-## ✨ [Material Dashboard 2](https://www.creative-tim.com/product/material-dashboard?AFFILIATE=128200) `Bootstrap`
-
-Designed for those who like bold elements and beautiful websites, Material Dashboard 2 is ready to help you create stunning websites and web apps. Material Dashboard 2 is built with over 60 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. 
-
-- 👉 [Material Dashboard 2](https://www.creative-tim.com/product/material-dashboard?AFFILIATE=128200) - `product page`
-- 👉 [Material Dashboard 2](https://demos.creative-tim.com/material-dashboard/pages/dashboard.html?AFFILIATE=128200) - `LIVE demo` 
-
-![Material Dashboard 2 - Free admin dashboard crafted by Creative-Tim.](https://user-images.githubusercontent.com/51854817/179171185-300d44ba-ccc6-4213-a249-5bf39b2766c0.png)
-
-<br />
-
 ## ✨ [Soft UI Dashboard](https://www.creative-tim.com/product/vue-soft-ui-dashboard?AFFILIATE=128200) `Vue`
 
 Vue Soft UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
@@ -98,6 +87,17 @@ From specially designed dashboards for smart homes, virtual reality, and automot
 ![Vue Soft UI Dashboard](https://user-images.githubusercontent.com/51854817/179401191-950eab0b-a382-4866-a2b8-3ee50e8e01b3.png)
 
 <br /> 
+
+## ✨ [Material Dashboard 2](https://www.creative-tim.com/product/material-dashboard?AFFILIATE=128200) `Bootstrap`
+
+Designed for those who like bold elements and beautiful websites, Material Dashboard 2 is ready to help you create stunning websites and web apps. Material Dashboard 2 is built with over 60 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. 
+
+- 👉 [Material Dashboard 2](https://www.creative-tim.com/product/material-dashboard?AFFILIATE=128200) - `product page`
+- 👉 [Material Dashboard 2](https://demos.creative-tim.com/material-dashboard/pages/dashboard.html?AFFILIATE=128200) - `LIVE demo` 
+
+![Material Dashboard 2 - Free admin dashboard crafted by Creative-Tim.](https://user-images.githubusercontent.com/51854817/179171185-300d44ba-ccc6-4213-a249-5bf39b2766c0.png)
+
+<br />
 
 ## ✨ [Muse Ant.Design](https://www.creative-tim.com/product/muse-ant-design-dashboard?AFFILIATE=128200) `React`
 
