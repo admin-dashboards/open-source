@@ -6,6 +6,40 @@ A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/
 
 <br />
 
+## ✨ [Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) `Laravel`
+
+With [Laravel Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) , you're getting a fast and easy way to build Laravel apps, easily style them with `Tailwind` and write `Livewire` components with a dash of `Alpine.js`.  
+
+This free starter `takes care of` **authentication** and **user profile features** right out-of-the-box. No more writing boring code, you can now focus on the more complex aspects of your app. 
+
+- 👉 *Frontend ONLY Version*: [Soft UI Dashboard Tailwind](https://www.creative-tim.com/product/soft-ui-dashboard-tailwind?AFFILIATE=128200) `v1.0.3`
+- 🎁 More [Laravel Starters](https://www.creative-tim.com/templates/laravel-free?AFFILIATE=128200) - `all free`
+
+[![Soft UI Dashboard TALL Free](https://user-images.githubusercontent.com/51854817/222227022-a3c6f1dd-a948-4fa3-846a-507a494cb5c2.jpg)](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200)
+
+<br />
+
+## ✨ [Flexy Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157) `React`
+
+Flexy Free `React`/Nextjs version is built with the most popular `React` Framework: **Material-UI**. The free version comes with an elegant grid design that helps you play around with the look and feel of the web app the way you want. it's a carefully hand-crafted minimal admin template built with modular and modern design.
+
+> 👉 [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157) - `product page`
+
+![Flexy React Material Admin - Open-source React template.](https://user-images.githubusercontent.com/51070104/175769752-ab24a64a-15ba-4fcf-8dcd-13a8e755277b.jpg)
+
+<br />
+
+## ✨ [Tailwind CSS React](https://www.creative-tim.com/product/material-tailwind-dashboard-react?AFFILIATE=128200) `Free Dashboard`
+
+This innovative `Material Design`, **Tailwind CSS & React** dashboard comes with a beautiful design inspired by Google's Material Design and it will help you create stunning websites & web apps to delight your clients.
+
+- 👉 [Tailwind Dashboard React](https://www.creative-tim.com/product/material-tailwind-dashboard-react?AFFILIATE=128200) - `Product page`
+- 👉 [Tailwind Dashboard React](https://demos.creative-tim.com/material-tailwind-dashboard-react/#/dashboard/home?AFFILIATE=128200) - `LIVE Demo`
+
+![Material Tailwind Dashboard React - Open-Source React Template](https://user-images.githubusercontent.com/51854817/222807058-129ddc2e-dc28-4f57-ad4b-1ab4b2aca6f4.png)
+
+<br /> 
+
 ## ✨ [Argon Dashboard](https://www.creative-tim.com/product/vue-argon-dashboard?AFFILIATE=128200) `Vue`
 
 Start your Development with an Innovative Admin Template for Bootstrap 5 and VueJS 3. If you like the look & feel of the hottest design trend right now, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing. 
@@ -25,40 +59,6 @@ Black Dashboard React is a beautiful Bootstrap 4 (Reactstrap) Admin Dashboard wi
 - 👉 [Black Dashboard React](https://demos.creative-tim.com/black-dashboard-react/#/admin/dashboard?AFFILIATE=128200) - product page
 
 ![Black Dashboard - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51854817/178653651-6da35ef2-7a32-4853-8835-fc139d5f85d4.png)
-
-<br />
-
-## ✨ [Tailwind CSS React](https://www.creative-tim.com/product/material-tailwind-dashboard-react?AFFILIATE=128200) `Free Dashboard`
-
-This innovative `Material Design`, **Tailwind CSS & React** dashboard comes with a beautiful design inspired by Google's Material Design and it will help you create stunning websites & web apps to delight your clients.
-
-- 👉 [Tailwind Dashboard React](https://www.creative-tim.com/product/material-tailwind-dashboard-react?AFFILIATE=128200) - `Product page`
-- 👉 [Tailwind Dashboard React](https://demos.creative-tim.com/material-tailwind-dashboard-react/#/dashboard/home?AFFILIATE=128200) - `LIVE Demo`
-
-![Material Tailwind Dashboard React - Open-Source React Template](https://user-images.githubusercontent.com/51854817/222807058-129ddc2e-dc28-4f57-ad4b-1ab4b2aca6f4.png)
-
-<br />
-
-## ✨ [Flexy Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157) `React`
-
-Flexy Free `React`/Nextjs version is built with the most popular `React` Framework: **Material-UI**. The free version comes with an elegant grid design that helps you play around with the look and feel of the web app the way you want. it's a carefully hand-crafted minimal admin template built with modular and modern design.
-
-> 👉 [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157) - `product page`
-
-![Flexy React Material Admin - Open-source React template.](https://user-images.githubusercontent.com/51070104/175769752-ab24a64a-15ba-4fcf-8dcd-13a8e755277b.jpg)
-
-<br />
-
-## ✨ [Soft UI Dashboard TALL](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) `Free`
-
-With [Laravel Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) , you're getting a fast and easy way to build Laravel apps, easily style them with `Tailwind` and write `Livewire` components with a dash of `Alpine.js`.  
-
-This free starter `takes care of` **authentication** and **user profile features** right out-of-the-box. No more writing boring code, you can now focus on the more complex aspects of your app. 
-
-- 👉 *Frontend ONLY Version*: [Soft UI Dashboard Tailwind](https://www.creative-tim.com/product/soft-ui-dashboard-tailwind?AFFILIATE=128200) `v1.0.3`
-- 🎁 More [Laravel Starters](https://www.creative-tim.com/templates/laravel-free?AFFILIATE=128200) - `all free`
-
-[![Soft UI Dashboard TALL Free](https://user-images.githubusercontent.com/51854817/222227022-a3c6f1dd-a948-4fa3-846a-507a494cb5c2.jpg)](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200)
 
 <br />
 
