@@ -6,17 +6,6 @@ A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/
 
 <br /> 
 
-## ✨ [Black Dashboard](https://www.creative-tim.com/product/black-dashboard-react?AFFILIATE=128200) `React`
-
-Black Dashboard React is a beautiful Bootstrap 4 (Reactstrap) Admin Dashboard with a huge number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
-
-- 👉 [Black Dashboard React](https://www.creative-tim.com/product/black-dashboard-react?AFFILIATE=128200) - product page
-- 👉 [Black Dashboard React](https://demos.creative-tim.com/black-dashboard-react/#/admin/dashboard?AFFILIATE=128200) - product page
-
-![Black Dashboard - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51854817/178653651-6da35ef2-7a32-4853-8835-fc139d5f85d4.png)
-
-<br />
-
 ## ✨ [Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) `Laravel`
 
 With [Laravel Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) , you're getting a fast and easy way to build Laravel apps, easily style them with `Tailwind` and write `Livewire` components with a dash of `Alpine.js`.  
@@ -27,6 +16,17 @@ This free starter `takes care of` **authentication** and **user profile features
 - 🎁 More [Laravel Starters](https://www.creative-tim.com/templates/laravel-free?AFFILIATE=128200) - `all free`
 
 [![Soft UI Dashboard TALL Free](https://user-images.githubusercontent.com/51854817/222227022-a3c6f1dd-a948-4fa3-846a-507a494cb5c2.jpg)](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200)
+
+<br />
+
+## ✨ [Black Dashboard](https://www.creative-tim.com/product/black-dashboard-react?AFFILIATE=128200) `React`
+
+Black Dashboard React is a beautiful Bootstrap 4 (Reactstrap) Admin Dashboard with a huge number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
+
+- 👉 [Black Dashboard React](https://www.creative-tim.com/product/black-dashboard-react?AFFILIATE=128200) - product page
+- 👉 [Black Dashboard React](https://demos.creative-tim.com/black-dashboard-react/#/admin/dashboard?AFFILIATE=128200) - product page
+
+![Black Dashboard - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51854817/178653651-6da35ef2-7a32-4853-8835-fc139d5f85d4.png)
 
 <br />
 
