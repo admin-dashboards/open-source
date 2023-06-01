@@ -19,6 +19,19 @@ This free starter `takes care of` **authentication** and **user profile features
 
 <br />
 
+## ✨ [Modernize MUI React](https://adminmart.com/product/modernize-free-react-mui-dashboard/?ref=1)
+
+If you are looking for an eye-catching and elegantly designed free react admin template that comes with several added features, then look no more. Modernize react admin is a free template that has everything you require to develop an amazing web app. 
+
+- 👉 [Modernize MUI React](https://adminmart.com/product/modernize-free-react-mui-dashboard/?ref=1) - `product page`
+- 👉 [AdminMart](https://adminmart.com/?ref=1) - `Agency HOMEpage` (for more freebies)
+
+This product comes with a permissive (MIT) license, `React 18+`, `Code Splitting` and `Redux toolkit`.
+
+![Modernize MUI React - Open-source Template crafted by AdminMart.](https://user-images.githubusercontent.com/51854817/216833726-06d9eb10-ab56-4a8d-87a1-5f3f4ca141c2.jpg)
+
+<br />  
+
 ## ✨ [Black Dashboard](https://www.creative-tim.com/product/black-dashboard-react?AFFILIATE=128200) `React`
 
 Black Dashboard React is a beautiful Bootstrap 4 (Reactstrap) Admin Dashboard with a huge number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
