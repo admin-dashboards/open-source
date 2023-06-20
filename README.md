@@ -6,16 +6,15 @@ A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/
 
 <br /> 
 
-## ✨ [Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) `Laravel`
+## ✨ [Material Dashboard React Laravel](https://www.creative-tim.com/product/material-dashboard-react-laravel?AFFILIATE=128200)
 
-With [Laravel Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) , you're getting a fast and easy way to build Laravel apps, easily style them with `Tailwind` and write `Livewire` components with a dash of `Alpine.js`.  
+React Material Dashboard Laravel comes with a fresh, new design inspired by Material Design 2, Google's approach to designing components and interfaces. 
+Add in out of the box Laravel CRUD endpoints for the most widely used features in any CMS and you`ve got a full stack solution for building complex apps fast.
 
-This free starter `takes care of` **authentication** and **user profile features** right out-of-the-box. No more writing boring code, you can now focus on the more complex aspects of your app. 
+- 👉 [Material Dashboard React Laravel](https://www.creative-tim.com/product/material-dashboard-react-laravel?AFFILIATE=128200&ref=ui-themes.com) - `Product Page`
+- 👉 More [Laravel Starters](https://www.creative-tim.com/templates/laravel-free?AFFILIATE=128200&ref=ui-themes.com) - crafted by `Creative-Tim` (all free)
 
-- 👉 *Frontend ONLY Version*: [Soft UI Dashboard Tailwind](https://www.creative-tim.com/product/soft-ui-dashboard-tailwind?AFFILIATE=128200) `v1.0.3`
-- 🎁 More [Laravel Starters](https://www.creative-tim.com/templates/laravel-free?AFFILIATE=128200) - `all free`
-
-[![Soft UI Dashboard TALL Free](https://user-images.githubusercontent.com/51854817/222227022-a3c6f1dd-a948-4fa3-846a-507a494cb5c2.jpg)](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200)
+[![Material Dashboard React Laravel](https://github.com/admin-dashboards/open-source/assets/51854817/4db5ed30-5d30-496d-bcb8-2ec2abeb5ed4)](https://www.creative-tim.com/product/material-dashboard-react-laravel?AFFILIATE=128200)
 
 <br />
 
@@ -27,6 +26,19 @@ This innovative `Material Design`, **Tailwind CSS & React** dashboard comes with
 - 👉 [Tailwind Dashboard React](https://demos.creative-tim.com/material-tailwind-dashboard-react/#/dashboard/home?AFFILIATE=128200) - `LIVE Demo`
 
 ![Material Tailwind Dashboard React - Open-Source React Template](https://user-images.githubusercontent.com/51854817/222807058-129ddc2e-dc28-4f57-ad4b-1ab4b2aca6f4.png)
+
+<br />
+
+## ✨ [Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) `Laravel`
+
+With [Laravel Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) , you're getting a fast and easy way to build Laravel apps, easily style them with `Tailwind` and write `Livewire` components with a dash of `Alpine.js`.  
+
+This free starter `takes care of` **authentication** and **user profile features** right out-of-the-box. No more writing boring code, you can now focus on the more complex aspects of your app. 
+
+- 👉 *Frontend ONLY Version*: [Soft UI Dashboard Tailwind](https://www.creative-tim.com/product/soft-ui-dashboard-tailwind?AFFILIATE=128200) `v1.0.3`
+- 🎁 More [Laravel Starters](https://www.creative-tim.com/templates/laravel-free?AFFILIATE=128200) - `all free`
+
+[![Soft UI Dashboard TALL Free](https://user-images.githubusercontent.com/51854817/222227022-a3c6f1dd-a948-4fa3-846a-507a494cb5c2.jpg)](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200)
 
 <br />
 
