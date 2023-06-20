@@ -11,8 +11,8 @@ A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/
 React Material Dashboard Laravel comes with a fresh, new design inspired by Material Design 2, Google's approach to designing components and interfaces. 
 Add in out of the box Laravel CRUD endpoints for the most widely used features in any CMS and you`ve got a full stack solution for building complex apps fast.
 
-- 👉 [Material Dashboard React Laravel](https://www.creative-tim.com/product/material-dashboard-react-laravel?AFFILIATE=128200&ref=ui-themes.com) - `Product Page`
-- 👉 More [Laravel Starters](https://www.creative-tim.com/templates/laravel-free?AFFILIATE=128200&ref=ui-themes.com) - crafted by `Creative-Tim` (all free)
+- 👉 [Material Dashboard React Laravel](https://www.creative-tim.com/product/material-dashboard-react-laravel?AFFILIATE=128200) - `Product Page`
+- 👉 More [Laravel Starters](https://www.creative-tim.com/templates/laravel-free?AFFILIATE=128200) - crafted by `Creative-Tim` (all free)
 
 ![Material Dashboard React Laravel](https://github.com/admin-dashboards/open-source/assets/51854817/4db5ed30-5d30-496d-bcb8-2ec2abeb5ed4)
 
