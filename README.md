@@ -19,18 +19,6 @@ This free starter `takes care of` **authentication** and **user profile features
 
 <br />
 
-## ✨ [Material Dashboard React Laravel](https://www.creative-tim.com/product/material-dashboard-react-laravel?AFFILIATE=128200)
-
-React Material Dashboard Laravel comes with a fresh, new design inspired by Material Design 2, Google's approach to designing components and interfaces. 
-Add in out of the box Laravel CRUD endpoints for the most widely used features in any CMS and you`ve got a full stack solution for building complex apps fast.
-
-- 👉 [Material Dashboard React Laravel](https://www.creative-tim.com/product/material-dashboard-react-laravel?AFFILIATE=128200) - `Product Page`
-- 👉 More [Laravel Starters](https://www.creative-tim.com/templates/laravel-free?AFFILIATE=128200) - crafted by `Creative-Tim` (all free)
-
-![Material Dashboard React Laravel](https://github.com/admin-dashboards/open-source/assets/51854817/4db5ed30-5d30-496d-bcb8-2ec2abeb5ed4)
-
-<br />
-
 ## ✨ [Modernize MUI React](https://adminmart.com/product/modernize-free-react-mui-dashboard/?ref=1)
 
 If you are looking for an eye-catching and elegantly designed free react admin template that comes with several added features, then look no more. Modernize react admin is a free template that has everything you require to develop an amazing web app. 
@@ -43,6 +31,18 @@ This product comes with a permissive (MIT) license, `React 18+`, `Code Splitting
 ![Modernize MUI React - Open-source Template crafted by AdminMart.](https://user-images.githubusercontent.com/51854817/216833726-06d9eb10-ab56-4a8d-87a1-5f3f4ca141c2.jpg)
 
 <br /> 
+
+## ✨ [Material Dashboard React Laravel](https://www.creative-tim.com/product/material-dashboard-react-laravel?AFFILIATE=128200)
+
+React Material Dashboard Laravel comes with a fresh, new design inspired by Material Design 2, Google's approach to designing components and interfaces. 
+Add in out of the box Laravel CRUD endpoints for the most widely used features in any CMS and you`ve got a full stack solution for building complex apps fast.
+
+- 👉 [Material Dashboard React Laravel](https://www.creative-tim.com/product/material-dashboard-react-laravel?AFFILIATE=128200) - `Product Page`
+- 👉 More [Laravel Starters](https://www.creative-tim.com/templates/laravel-free?AFFILIATE=128200) - crafted by `Creative-Tim` (all free)
+
+![Material Dashboard React Laravel](https://github.com/admin-dashboards/open-source/assets/51854817/4db5ed30-5d30-496d-bcb8-2ec2abeb5ed4)
+
+<br />
 
 ## ✨ [Tailwind CSS React](https://www.creative-tim.com/product/material-tailwind-dashboard-react?AFFILIATE=128200) `Free Dashboard`
 
