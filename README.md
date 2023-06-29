@@ -32,6 +32,17 @@ This free starter `takes care of` **authentication** and **user profile features
 
 <br />
 
+## ✨ [React Node JS Berry](https://appseed.us/product/berry-dashboard/api-server-nodejs/react/) `Full-Stack`
+
+**Berry** is a creative free **React Dashboard** build using the Material-UI by **CodedThemes** agency. It is meant to be the best User Experience with highly customizable feature-riched pages. It is a complete game-changer React Dashboard Template with easy and intuitive responsive design as on retina screens or laptops. The product comes with a simple JWT authentication flow: login/register/logout.
+
+- 👉 [React Node JS Berry](https://appseed.us/product/berry-dashboard/api-server-nodejs/react/) - `product page`
+- 👉 [React Node JS Berry](https://react-node-js-berry-dashboard.appseed-srv1.com/) - `LIVE Demo`
+
+![React Node JS Berry - Full-stack product powered by a simple NodeJS API backend.](https://user-images.githubusercontent.com/51070104/174480640-e0b450b1-07a8-4cc7-84bc-287bb9c45773.png)
+
+<br />
+
 ## ✨ [Modernize MUI React](https://adminmart.com/product/modernize-free-react-mui-dashboard/?ref=1)
 
 If you are looking for an eye-catching and elegantly designed free react admin template that comes with several added features, then look no more. Modernize react admin is a free template that has everything you require to develop an amazing web app. 
