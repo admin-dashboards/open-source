@@ -6,6 +6,19 @@ A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/
 
 <br /> 
 
+## [React Purity Dashboard](https://appseed.us/product/purity-dashboard/api-server-nodejs/react/) `full-stack`
+
+Start your Development with an Innovative Admin Template for **Chakra UI** and **React**. [Purity UI Dashboard](https://appseed.us/product/purity-dashboard/api-server-nodejs/react/) is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using Chakra's style props - **Designed by [Creative-Tim](https://www.creative-tim.com/?AFFILIATE=128200)**.
+
+The product comes with a `simple JWT authentication` flow: login/register/logout. 
+
+- 👉 [React Purity Dashboard](https://appseed.us/product/purity-dashboard/api-server-nodejs/react/) - product page
+- 👉 [React Purity Dashboard](https://node-js-react-purity-dashboard.appseed-srv1.com/#/auth/signin) - LIVE Demo
+
+![React Purity Dashboard - Open-source full-stack prodyct crafted by AppSeed and Creative-Tim.](https://user-images.githubusercontent.com/51070104/205427640-007904ec-9cd5-4060-86c6-47675b36cda1.png)
+
+<br />
+
 ## ✨ [Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) `Laravel`
 
 With [Laravel Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) , you're getting a fast and easy way to build Laravel apps, easily style them with `Tailwind` and write `Livewire` components with a dash of `Alpine.js`.  
@@ -86,19 +99,6 @@ Start your Development with an Innovative Admin Template for Bootstrap 5 and Vue
 ![Vue Argon Dashboard - Open-Source React Dashboard Template from Creative-Tim](https://user-images.githubusercontent.com/51854817/179171871-e91164e2-176b-47e6-acfa-a44d451b5400.png)
 
 <br /> 
-
-## [React Purity Dashboard](https://appseed.us/product/purity-dashboard/api-server-nodejs/react/) `full-stack`
-
-Start your Development with an Innovative Admin Template for **Chakra UI** and **React**. [Purity UI Dashboard](https://appseed.us/product/purity-dashboard/api-server-nodejs/react/) is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using Chakra's style props - **Designed by [Creative-Tim](https://www.creative-tim.com/?AFFILIATE=128200)**.
-
-The product comes with a `simple JWT authentication` flow: login/register/logout. 
-
-- 👉 [React Purity Dashboard](https://appseed.us/product/purity-dashboard/api-server-nodejs/react/) - product page
-- 👉 [React Purity Dashboard](https://node-js-react-purity-dashboard.appseed-srv1.com/#/auth/signin) - LIVE Demo
-
-![React Purity Dashboard - Open-source full-stack prodyct crafted by AppSeed and Creative-Tim.](https://user-images.githubusercontent.com/51070104/205427640-007904ec-9cd5-4060-86c6-47675b36cda1.png)
-
-<br />
 
 ## ✨ [Soft UI Dashboard](https://www.creative-tim.com/product/vue-soft-ui-dashboard?AFFILIATE=128200) `Vue`
 
