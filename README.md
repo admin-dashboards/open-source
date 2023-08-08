@@ -2,11 +2,7 @@
 
 A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/)**, released under the MIT license and actively supported by the publishers. All mentioned templates can be used in commercial products and eLearning activities.  
 
-<br />
- 
-> 🚀 `Sponsored` by **[WebFlow](https://webflow.grsm.io/jwra8zwbaz4l)**, a modern way to `build websites without coding`
-
-<br />
+<br /> 
 
 ## [React Purity Dashboard](https://appseed.us/product/purity-dashboard/api-server-nodejs/react/) `full-stack`
 
