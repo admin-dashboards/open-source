@@ -6,6 +6,19 @@ A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/
  
 <br /> 
 
+## ✨ [Modernize MUI React](https://adminmart.com/product/modernize-free-react-mui-dashboard/?ref=1)
+
+If you are looking for an eye-catching and elegantly designed free react admin template that comes with several added features, then look no more. Modernize react admin is a free template that has everything you require to develop an amazing web app. 
+
+- 👉 [Modernize MUI React](https://adminmart.com/product/modernize-free-react-mui-dashboard/?ref=1) - `product page`
+- 👉 [AdminMart](https://adminmart.com/?ref=1) - `Agency HOMEpage` (for more freebies)
+
+This product comes with a permissive (MIT) license, `React 18+`, `Code Splitting` and `Redux toolkit`.
+
+![Modernize MUI React - Open-source Template crafted by AdminMart.](https://user-images.githubusercontent.com/51854817/216833726-06d9eb10-ab56-4a8d-87a1-5f3f4ca141c2.jpg)
+
+<br /> 
+
 ## ✨ [React Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) `full-stack`
 
 Start your Development with an Innovative Admin Template for **Material-UI** and **React**. [Soft UI Dashboard React](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. The product comes with a simple JWT authentication flow: login/register/logout. 
@@ -58,19 +71,6 @@ This free starter `takes care of` **authentication** and **user profile features
 ![React Node JS Berry - Full-stack product powered by a simple NodeJS API backend.](https://user-images.githubusercontent.com/51070104/174480640-e0b450b1-07a8-4cc7-84bc-287bb9c45773.png)
 
 <br />
-
-## ✨ [Modernize MUI React](https://adminmart.com/product/modernize-free-react-mui-dashboard/?ref=1)
-
-If you are looking for an eye-catching and elegantly designed free react admin template that comes with several added features, then look no more. Modernize react admin is a free template that has everything you require to develop an amazing web app. 
-
-- 👉 [Modernize MUI React](https://adminmart.com/product/modernize-free-react-mui-dashboard/?ref=1) - `product page`
-- 👉 [AdminMart](https://adminmart.com/?ref=1) - `Agency HOMEpage` (for more freebies)
-
-This product comes with a permissive (MIT) license, `React 18+`, `Code Splitting` and `Redux toolkit`.
-
-![Modernize MUI React - Open-source Template crafted by AdminMart.](https://user-images.githubusercontent.com/51854817/216833726-06d9eb10-ab56-4a8d-87a1-5f3f4ca141c2.jpg)
-
-<br /> 
 
 ## ✨ [Material Dashboard React Laravel](https://www.creative-tim.com/product/material-dashboard-react-laravel?AFFILIATE=128200)
 
