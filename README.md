@@ -2,7 +2,7 @@
 
 A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/)**, released under the MIT license and actively supported by the publishers. All mentioned templates can be used in commercial products and eLearning activities.  
 
-> 🚀 Provided by [DeployPRO - Deployment process simplified](https://deploypro.dev/) — Works with `AWS`, `DO`, `GCP` and `Azure`
+> 🚀 Provided by **[Simpllo, an open-source site builder](https://deploypro.dev/)** — `Free Service` actively supported by AppSeed
  
 <br /> 
 
