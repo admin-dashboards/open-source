@@ -4,7 +4,15 @@ A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/
 
 > 🚀 Provided by **[Simpllo, an open-source site builder](https://deploypro.dev/)** — `Free Service` actively supported by AppSeed
  
-<br /> 
+<br />
+
+## 🚀 **[Black Friday Campaign](https://appseed.us/)** is LIVE: `70%Off`
+
+> `React`, `Django`, `Flask`, and `NodeJs` starters crafted and actively supported by **AppSeed**
+ 
+[![](https://github-production-user-asset-6210df.s3.amazonaws.com/51070104/280080081-1e7c91c0-612f-4418-81e7-34c363378479.jpg)](https://appseed.us/)
+
+<br />
 
 ## ✨ [React Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) `full-stack`
 
