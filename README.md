@@ -30,6 +30,17 @@ Start your Development with an Innovative Admin Template for **Material-UI** and
 
 <br />
 
+## ✨ [Spike Angular](https://www.wrappixel.com/templates/spike-free-angular-admin-template/?ref=157)
+
+This free starter is built on top of Angular, a leading JS framework for coding modern user interfaces, and provides a modular design that allows it to be easily customized and extended.
+
+- 👉 [Spike Angular](https://www.wrappixel.com/templates/spike-free-angular-admin-template/?ref=157) - product page (contains download link)
+- 👉 More [Free Templates](https://www.wrappixel.com/templates/category/free-templates/?ref=157) provided by WrapPixel
+
+![Spike Angular - Free Dashboard Template](https://github.com/admin-dashboards/open-source/assets/51854817/39c3d507-59c4-4e9e-a47f-7b72d2709393)
+
+<br />
+
 ## ✨ [Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) `Laravel`
 
 With [Laravel Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) , you're getting a fast and easy way to build Laravel apps, easily style them with `Tailwind` and write `Livewire` components with a dash of `Alpine.js`.  
