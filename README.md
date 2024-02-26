@@ -6,7 +6,20 @@ A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/
  
 <br />
 
-## ✨ [React Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) `full-stack`
+## [Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) `Laravel`
+
+With [Laravel Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) , you're getting a fast and easy way to build Laravel apps, easily style them with `Tailwind` and write `Livewire` components with a dash of `Alpine.js`.  
+
+This free starter `takes care of` **authentication** and **user profile features** right out-of-the-box. No more writing boring code, you can now focus on the more complex aspects of your app. 
+
+- 👉 *Frontend ONLY Version*: [Soft UI Dashboard Tailwind](https://www.creative-tim.com/product/soft-ui-dashboard-tailwind?AFFILIATE=128200) `v1.0.3`
+- 🎁 More [Laravel Starters](https://www.creative-tim.com/templates/laravel-free?AFFILIATE=128200) - `all free`
+
+[![Soft UI Dashboard TALL Free](https://user-images.githubusercontent.com/51854817/222227022-a3c6f1dd-a948-4fa3-846a-507a494cb5c2.jpg)](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200)
+
+<br />
+
+## [React Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) `full-stack`
 
 Start your Development with an Innovative Admin Template for **Material-UI** and **React**. [Soft UI Dashboard React](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. The product comes with a simple JWT authentication flow: login/register/logout. 
 
@@ -22,7 +35,7 @@ Start your Development with an Innovative Admin Template for **Material-UI** and
 
 <br />
 
-## ✨ [Spike Angular](https://www.wrappixel.com/templates/spike-free-angular-admin-template/?ref=157)
+## [Spike Angular](https://www.wrappixel.com/templates/spike-free-angular-admin-template/?ref=157)
 
 This free starter is built on top of Angular, a leading JS framework for coding modern user interfaces, and provides a modular design that allows it to be easily customized and extended.
 
@@ -33,20 +46,7 @@ This free starter is built on top of Angular, a leading JS framework for coding 
 
 <br />
 
-## ✨ [Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) `Laravel`
-
-With [Laravel Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) , you're getting a fast and easy way to build Laravel apps, easily style them with `Tailwind` and write `Livewire` components with a dash of `Alpine.js`.  
-
-This free starter `takes care of` **authentication** and **user profile features** right out-of-the-box. No more writing boring code, you can now focus on the more complex aspects of your app. 
-
-- 👉 *Frontend ONLY Version*: [Soft UI Dashboard Tailwind](https://www.creative-tim.com/product/soft-ui-dashboard-tailwind?AFFILIATE=128200) `v1.0.3`
-- 🎁 More [Laravel Starters](https://www.creative-tim.com/templates/laravel-free?AFFILIATE=128200) - `all free`
-
-[![Soft UI Dashboard TALL Free](https://user-images.githubusercontent.com/51854817/222227022-a3c6f1dd-a948-4fa3-846a-507a494cb5c2.jpg)](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200)
-
-<br />
-
-## ✨ [Modernize MUI React](https://adminmart.com/product/modernize-free-react-mui-dashboard/?ref=1)
+## [Modernize MUI React](https://adminmart.com/product/modernize-free-react-mui-dashboard/?ref=1)
 
 If you are looking for an eye-catching and elegantly designed free react admin template that comes with several added features, then look no more. Modernize react admin is a free template that has everything you require to develop an amazing web app. 
 
@@ -72,7 +72,7 @@ The product comes with a `simple JWT authentication` flow: login/register/logout
 
 <br />
 
-## ✨ [React Node JS Berry](https://appseed.us/product/berry-dashboard/api-server-nodejs/react/) `Full-Stack`
+## [React Node JS Berry](https://appseed.us/product/berry-dashboard/api-server-nodejs/react/) `Full-Stack`
 
 **Berry** is a creative free **React Dashboard** build using the Material-UI by **CodedThemes** agency. It is meant to be the best User Experience with highly customizable feature-riched pages. It is a complete game-changer React Dashboard Template with easy and intuitive responsive design as on retina screens or laptops. The product comes with a simple JWT authentication flow: login/register/logout.
 
@@ -83,7 +83,7 @@ The product comes with a `simple JWT authentication` flow: login/register/logout
 
 <br />
 
-## ✨ [Material Dashboard React Laravel](https://www.creative-tim.com/product/material-dashboard-react-laravel?AFFILIATE=128200)
+## [Material Dashboard React Laravel](https://www.creative-tim.com/product/material-dashboard-react-laravel?AFFILIATE=128200)
 
 React Material Dashboard Laravel comes with a fresh, new design inspired by Material Design 2, Google's approach to designing components and interfaces. 
 Add in out of the box Laravel CRUD endpoints for the most widely used features in any CMS and you`ve got a full stack solution for building complex apps fast.
@@ -95,7 +95,7 @@ Add in out of the box Laravel CRUD endpoints for the most widely used features i
 
 <br />
 
-## ✨ [Tailwind CSS React](https://www.creative-tim.com/product/material-tailwind-dashboard-react?AFFILIATE=128200) `Free Dashboard`
+## [Tailwind CSS React](https://www.creative-tim.com/product/material-tailwind-dashboard-react?AFFILIATE=128200) `Free Dashboard`
 
 This innovative `Material Design`, **Tailwind CSS & React** dashboard comes with a beautiful design inspired by Google's Material Design and it will help you create stunning websites & web apps to delight your clients.
 
@@ -106,7 +106,7 @@ This innovative `Material Design`, **Tailwind CSS & React** dashboard comes with
 
 <br /> 
 
-## ✨ [Black Dashboard](https://www.creative-tim.com/product/black-dashboard-react?AFFILIATE=128200) `React`
+## [Black Dashboard](https://www.creative-tim.com/product/black-dashboard-react?AFFILIATE=128200) `React`
 
 Black Dashboard React is a beautiful Bootstrap 4 (Reactstrap) Admin Dashboard with a huge number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
 
@@ -117,7 +117,7 @@ Black Dashboard React is a beautiful Bootstrap 4 (Reactstrap) Admin Dashboard wi
 
 <br />
 
-## ✨ [Flexy Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157) `React`
+## [Flexy Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157) `React`
 
 Flexy Free `React`/Nextjs version is built with the most popular `React` Framework: **Material-UI**. The free version comes with an elegant grid design that helps you play around with the look and feel of the web app the way you want. it's a carefully hand-crafted minimal admin template built with modular and modern design.
 
@@ -127,7 +127,7 @@ Flexy Free `React`/Nextjs version is built with the most popular `React` Framewo
 
 <br />
 
-## ✨ [Argon Dashboard](https://www.creative-tim.com/product/vue-argon-dashboard?AFFILIATE=128200) `Vue`
+## [Argon Dashboard](https://www.creative-tim.com/product/vue-argon-dashboard?AFFILIATE=128200) `Vue`
 
 Start your Development with an Innovative Admin Template for Bootstrap 5 and VueJS 3. If you like the look & feel of the hottest design trend right now, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing. 
 
@@ -138,7 +138,7 @@ Start your Development with an Innovative Admin Template for Bootstrap 5 and Vue
 
 <br /> 
 
-## ✨ [Soft UI Dashboard](https://www.creative-tim.com/product/vue-soft-ui-dashboard?AFFILIATE=128200) `Vue`
+## [Soft UI Dashboard](https://www.creative-tim.com/product/vue-soft-ui-dashboard?AFFILIATE=128200) `Vue`
 
 Vue Soft UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
 
@@ -151,7 +151,7 @@ From specially designed dashboards for smart homes, virtual reality, and automot
 
 <br /> 
 
-## ✨ [Material Dashboard 2](https://www.creative-tim.com/product/material-dashboard?AFFILIATE=128200) `Bootstrap`
+## [Material Dashboard 2](https://www.creative-tim.com/product/material-dashboard?AFFILIATE=128200) `Bootstrap`
 
 Designed for those who like bold elements and beautiful websites, Material Dashboard 2 is ready to help you create stunning websites and web apps. Material Dashboard 2 is built with over 60 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. 
 
@@ -162,7 +162,7 @@ Designed for those who like bold elements and beautiful websites, Material Dashb
 
 <br />
 
-## ✨ [Muse Ant.Design](https://www.creative-tim.com/product/muse-ant-design-dashboard?AFFILIATE=128200) `React`
+## [Muse Ant.Design](https://www.creative-tim.com/product/muse-ant-design-dashboard?AFFILIATE=128200) `React`
 
 Muse Ant Design Dashboard is a free Admin Template based on two popular front-end technologies: Ant Design & React. It was built to simplify the developer's work and is comes with a fresh design inspired by Ant Design. All its components are built to fit perfectly with each other, while aligning to the Ant Design concepts.
 
@@ -173,7 +173,7 @@ Muse Ant Design Dashboard is a free Admin Template based on two popular front-en
 
 <br />
 
-## ✨ [Volt Bootstrap 5](https://appseed.us/product/volt-dashboard/django/) `Django`
+## [Volt Bootstrap 5](https://appseed.us/product/volt-dashboard/django/) `Django`
 
 **[Volt Dashboard](https://appseed.us/generator/volt-dashboard/)** is a free and open source `Bootstrap 5` Admin Dashboard featuring over 100 components, 11 example pages and 3 plugins with Vanilla JS. There are more than 100 free Bootstrap 5 components included some of them being buttons, alerts, modals, datepickers and so on.
 
@@ -187,7 +187,7 @@ Muse Ant Design Dashboard is a free Admin Template based on two popular front-en
 
 <br />
 
-## ✨ [Modernize MUI](https://adminmart.com/product/modernize-free-react-mui-dashboard/?ref=1) `React`
+## [Modernize MUI](https://adminmart.com/product/modernize-free-react-mui-dashboard/?ref=1) `React`
 
 If you are looking for an eye-catching and elegantly designed free react admin template that comes with several added features, then look no more. Modernize react admin is a free template that has everything you require to develop an amazing web app. 
 
@@ -200,7 +200,7 @@ This product comes with a permissive (MIT) license, `React 18+`, `Code Splitting
 
 <br /> 
 
-## ✨ [Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-react?AFFILIATE=128200) `React`
+## [Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-react?AFFILIATE=128200) `React`
 
 Start your Development with an Innovative Admin Template for `MUI` and `React`. If you like the look & feel of the hottest design trend right now, **Soft UI**, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
 
@@ -211,7 +211,7 @@ Start your Development with an Innovative Admin Template for `MUI` and `React`. 
 
 <br />
 
-## ✨ [Soft UI Dashboard](https://appseed.us/product/soft-ui-dashboard/django/) `Django`
+## [Soft UI Dashboard](https://appseed.us/product/soft-ui-dashboard/django/) `Django`
 
 Open-source **Django Dashboard** generated by `AppSeed` op top of a modern design. Designed for those who like bold elements and beautiful websites, **[Soft UI Dashboard](https://appseed.us/generator/soft-ui-dashboard/)** is ready to help you create stunning websites and webapps. **Soft UI Dashboard** is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
 
@@ -225,7 +225,7 @@ Open-source **Django Dashboard** generated by `AppSeed` op top of a modern desig
 
 <br />
 
-## ✨ [Datta Able](https://appseed.us/product/datta-able/django/) `Django`
+## [Datta Able](https://appseed.us/product/datta-able/django/) `Django`
 
 **Datta Able** Bootstrap Lite is the most stylised Bootstrap 4 Lite Admin Template, around all other Lite/Free admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. Before developing Datta Able our key points were performance and design. 
 
