@@ -2,9 +2,22 @@
 
 A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/)**, released under the MIT license and actively supported by the publishers. All mentioned templates can be used in commercial products and eLearning activities.  
 
-> 🚀 Provided by **[Simpllo, an open-source site builder](https://deploypro.dev/)** — `Free Service` actively supported by AppSeed
+> Provided by **[Django App Generator](https://app-generator.dev/django/)** — A free service for coding apps in no-time
  
 <br />
+
+## [Vision UI React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) `MUI`
+
+Designed for those who like modern UI elements and beautiful websites. Made of hundreds of elements, designed blocks, and fully coded pages, Vision UI Dashboard React is ready to help you create stunning websites and web apps.
+
+This Free MUI Dashboard comes with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+
+- 👉 [Vision UI React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) - `product page`
+- 👉 [Vision UI React](https://demos.creative-tim.com/vision-ui-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
+
+![Vision UI React - Free MUI Dashboard](https://github.com/admin-dashboards/react-dashboards/assets/51854817/c3ba1ba0-ae95-452a-b2f9-1945a97b5752)
+
+<br /> 
 
 ## [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200)
 
