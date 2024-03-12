@@ -6,6 +6,43 @@ A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/
  
 <br />
 
+## [Datta Able Django](https://appseed.us/product/datta-able/django/)
+
+**Datta Able** Bootstrap Lite is the most stylized Bootstrap 4 Lite Admin Template, around all other Lite/Free admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. Before developing Datta Able our key points were performance and design. 
+
+| Free Version                          | [PRO Version](https://appseed.us/product/datta-able-pro/django/)    | [Custom Development](https://appseed.us/custom-development/) |  
+| --------------------------------------| --------------------------------------| --------------------------------------|
+| ✓ **Django 4.2.9**                   | **Everything in Free**, plus:                                                          | **Everything in PRO**, plus:         |
+| ✓ Best Practices                      | ✅ **Premium Bootstrap 5 Design**                                                      | ✅ **1mo Custom Development**       | 
+| ✓ Bootstrap 4, `Datta Able` Design    | ✅ `OAuth` Google, GitHub                                                              | ✅ **Team**: PM, Developer, Tester  |
+| ✓ API Generator                       | ✅ `API`, **[Charts](https://django-datta-pro.onrender.com/charts/)**                  | ✅ Weekly Sprints                   |
+| ✓ DataTables                          | ✅ **[Enhanced DataTables](https://django-datta-pro.onrender.com/tables/)**            | ✅ Technical SPECS                  |
+| ✓ `Docker`                            | ✅ **Celery**                                                                          | ✅ Documentation                    |
+| ✓ `CI/CD` Flow via Render             | ✅ **Media Files Manager**                                                             | ✅ **30 days Delivery Warranty**    |
+| -                                     | ✅ **Extended User Profiles**                                                          |  -                                   |
+| -                                     | ✅ **Automated e2e Tests**                                                             |  -                                   |
+| -                                     | ✅ `Private REPO Access`                                                               |  -                                   |
+| -                                     | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)                    |  -                                   |
+| -                                     | ✅ Deployment Assistance                                                               |  -                                   |
+| -                                     | -                                                                                       |  -                                   |
+| ------------------------------------  | ------------------------------------                                                    | ------------------------------------|
+| ✓ [LIVE Demo](https://django-datta-able.appseed-srv1.com/)  | 🚀 [LIVE Demo](https://django-datta-pro.onrender.com/) | 🛒 `Order`: **[$3,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |   
+
+![Free Django Dashboard and Admin Template - Datta Able Design.](https://user-images.githubusercontent.com/51070104/176118649-7233ffbc-6118-4f56-8cda-baa81d256877.png)
+
+<br />
+
+## [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200)
+
+Material Dashboard 2 React is an open-source MUI Admin Template based on React. Material Dashboard 2 React is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
+
+- 👉 [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) - `product page`
+- 👉 [Material Dashboard React](https://demos.creative-tim.com/material-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
+
+![Material Dashboard React - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51854817/178092547-a0bdd527-26f0-432f-9110-e29f17d22329.png)
+
+<br /> 
+
 ## [React Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) `full-stack`
 
 Start your Development with an Innovative Admin Template for **Material-UI** and **React**. [Soft UI Dashboard React](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. The product comes with a simple JWT authentication flow: login/register/logout. 
@@ -32,17 +69,6 @@ This Free MUI Dashboard comes with prebuilt design blocks, so the development pr
 - 👉 [Vision UI React](https://demos.creative-tim.com/vision-ui-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
 
 ![Vision UI React - Free MUI Dashboard](https://github.com/admin-dashboards/react-dashboards/assets/51854817/c3ba1ba0-ae95-452a-b2f9-1945a97b5752)
-
-<br /> 
-
-## [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200)
-
-Material Dashboard 2 React is an open-source MUI Admin Template based on React. Material Dashboard 2 React is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
-
-- 👉 [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) - `product page`
-- 👉 [Material Dashboard React](https://demos.creative-tim.com/material-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
-
-![Material Dashboard React - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51854817/178092547-a0bdd527-26f0-432f-9110-e29f17d22329.png)
 
 <br /> 
 
