@@ -4,6 +4,36 @@ A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/
  
 <br />
 
+## [Rocket Django](https://github.com/app-generator/rocket-django)
+
+The Django boilerplate has all you need to build your SaaS, Analytics tool, or any other type of Web App. From idea to production in 5 minutes.
+
+> **Features and Tech Stack**: `TailwindCSS` • `Flowbite` • `API` (DRF) • `Celery Beat` • `DataTables` • `Charts` • `Docker` • `CI/CD`.
+
+<br />
+
+| Free Version                            | PRO - 🛒 **[$99](https://appseed.gumroad.com/l/rocket-django)** | [Custom Development](https://appseed.us/custom-development/) |  
+| --------------------------------------| --------------------------------------| --------------------------------------|
+| ✓ **Django 4.2.9**                                                  | **Everything in Free**, plus:                                                       | **Everything in PRO**, plus:         |
+| ✓ Best Practices                                                    | ✅ **OAuth** `Google`, `GitHub`                                                     | ✅ **1mo Custom Development**       | 
+| ✓ **TailwindCSS**/`Flowbite`                                        | ✅ **Enhanced** [Charts](https://rocket-django-pro.onrender.com/charts/)            | ✅ **Team**: PM, Developer, Tester  |
+| ✓ Extended User Model                                               | ✅ **Enhanced** [DataTables](https://rocket-django-pro.onrender.com/tables/)        | ✅ Weekly Sprints                   |
+| ✓ `Simple` [Charts](https://rocket-django.onrender.com/charts/)     | ✅ **[Media Files Manager](https://rocket-django-pro.onrender.com/file-manager/)**  | ✅ Technical SPECS                  |
+| ✓ `Simple` [DataTables](https://rocket-django.onrender.com/tables/) | ✅ **Stripe** Payments                                                              | ✅ Documentation                    |
+| ✓ [API](https://rocket-django.onrender.com/api/product/) via `DRF`  | ✅ **Wagtail** CMS                                                                  | ✅ **30 days Delivery Warranty**    |
+| ✓ [Celery Beat](https://rocket-django.onrender.com/tasks/)          | ✅ **Multi-Language** (i18n) Support                                                |  -                                   |
+| ✓ `Docker`                                                          | ✅ **Sentry** `Error Reporting`                                                     |  -                                   |
+| ✓ `CI/CD` Flow via Render                                           | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)                 |  -                                   |
+| ✓ `Free Support` (GitHub Issues)                                    | ✅ `Unlimited Projects`                                                             |  -                                   |
+|  -                                                                  | ✅ `Private REPO Access`                                                            |  -                                   |
+|  -                                                                  | ✅ `Lifetime Updates`                                                               |  -                                   |
+| ------------------------------------| ------------------------------------| ------------------------------------|
+| 🚀 [LIVE Demo](https://rocket-django.onrender.com/)                | 🚀 [LIVE Demo](https://rocket-django-pro.onrender.com/) | 🛒 `Order`: **[$3,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |   
+
+![Free Django Dashboard and Admin Template - Rocket Django.](https://github-production-user-asset-6210df.s3.amazonaws.com/51070104/272299949-6f4a8fd7-7cce-472a-9566-9519db338c7d.gif)
+
+<br /> 
+
 ## [Modernize MUI React](https://adminmart.com/product/modernize-free-react-mui-dashboard/?ref=1)
 
 If you are looking for an eye-catching and elegantly designed free react admin template that comes with several added features, then look no more. Modernize react admin is a free template that has everything you require to develop an amazing web app. 
@@ -79,36 +109,6 @@ This free starter `takes care of` **authentication** and **user profile features
 [![Soft UI Dashboard TALL Free](https://user-images.githubusercontent.com/51854817/222227022-a3c6f1dd-a948-4fa3-846a-507a494cb5c2.jpg)](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200)
 
 <br />
-
-## [Rocket Django](https://github.com/app-generator/rocket-django)
-
-The Django boilerplate has all you need to build your SaaS, Analytics tool, or any other type of Web App. From idea to production in 5 minutes.
-
-> **Features and Tech Stack**: `TailwindCSS` • `Flowbite` • `API` (DRF) • `Celery Beat` • `DataTables` • `Charts` • `Docker` • `CI/CD`.
-
-<br />
-
-| Free Version                            | PRO - 🛒 **[$99](https://appseed.gumroad.com/l/rocket-django)** | [Custom Development](https://appseed.us/custom-development/) |  
-| --------------------------------------| --------------------------------------| --------------------------------------|
-| ✓ **Django 4.2.9**                                                  | **Everything in Free**, plus:                                                       | **Everything in PRO**, plus:         |
-| ✓ Best Practices                                                    | ✅ **OAuth** `Google`, `GitHub`                                                     | ✅ **1mo Custom Development**       | 
-| ✓ **TailwindCSS**/`Flowbite`                                        | ✅ **Enhanced** [Charts](https://rocket-django-pro.onrender.com/charts/)            | ✅ **Team**: PM, Developer, Tester  |
-| ✓ Extended User Model                                               | ✅ **Enhanced** [DataTables](https://rocket-django-pro.onrender.com/tables/)        | ✅ Weekly Sprints                   |
-| ✓ `Simple` [Charts](https://rocket-django.onrender.com/charts/)     | ✅ **[Media Files Manager](https://rocket-django-pro.onrender.com/file-manager/)**  | ✅ Technical SPECS                  |
-| ✓ `Simple` [DataTables](https://rocket-django.onrender.com/tables/) | ✅ **Stripe** Payments                                                              | ✅ Documentation                    |
-| ✓ [API](https://rocket-django.onrender.com/api/product/) via `DRF`  | ✅ **Wagtail** CMS                                                                  | ✅ **30 days Delivery Warranty**    |
-| ✓ [Celery Beat](https://rocket-django.onrender.com/tasks/)          | ✅ **Multi-Language** (i18n) Support                                                |  -                                   |
-| ✓ `Docker`                                                          | ✅ **Sentry** `Error Reporting`                                                     |  -                                   |
-| ✓ `CI/CD` Flow via Render                                           | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)                 |  -                                   |
-| ✓ `Free Support` (GitHub Issues)                                    | ✅ `Unlimited Projects`                                                             |  -                                   |
-|  -                                                                  | ✅ `Private REPO Access`                                                            |  -                                   |
-|  -                                                                  | ✅ `Lifetime Updates`                                                               |  -                                   |
-| ------------------------------------| ------------------------------------| ------------------------------------|
-| 🚀 [LIVE Demo](https://rocket-django.onrender.com/)                | 🚀 [LIVE Demo](https://rocket-django-pro.onrender.com/) | 🛒 `Order`: **[$3,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |   
-
-![Free Django Dashboard and Admin Template - Rocket Django.](https://github-production-user-asset-6210df.s3.amazonaws.com/51070104/272299949-6f4a8fd7-7cce-472a-9566-9519db338c7d.gif)
-
-<br /> 
 
 ## [React Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) `full-stack`
 
