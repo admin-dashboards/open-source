@@ -8,7 +8,7 @@ A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/
 
 The Django boilerplate has all you need to build your SaaS, Analytics tool, or any other type of Web App. From idea to production in 5 minutes.
 
-> **Features**: `TailwindCSS` • `Flowbite` • `API` (DRF) • `Celery Beat` • `DataTables` • `Charts` • `Docker` • `CI/CD`.
+> **Features**: `Django` • `Tailwind` • `API` (DRF) • `Celery Beat` • `DataTables` • `Charts` • `Docker` • `CI/CD`.
 
 <br />
 
