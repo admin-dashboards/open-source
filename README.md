@@ -21,8 +21,7 @@ A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/
 | -                                     | ✅ **Automated e2e Tests**                                                             |  -                                   |
 | -                                     | ✅ `Private REPO Access`                                                               |  -                                   |
 | -                                     | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)                    |  -                                   |
-| -                                     | ✅ Deployment Assistance                                                               |  -                                   |
-| -                                     | -                                                                                       |  -                                   |
+| -                                     | ✅ [Deployment Assistance](https://deploypro.dev/)                                     |  -                                   |
 | ------------------------------------  | ------------------------------------                                                    | ------------------------------------|
 | ✓ [LIVE Demo](https://django-datta-able.appseed-srv1.com/)  | 🚀 [LIVE Demo](https://django-datta-pro.onrender.com/) | 🛒 `Order`: **[$3,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |   
 
