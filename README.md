@@ -4,7 +4,7 @@ A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/
  
 <br />
 
-## [Rocket Django](https://github.com/app-generator/rocket-django)
+## [Rocket Django](https://appseed.us/product/rocket/django/)
 
 The Django boilerplate has all you need to build your SaaS, Analytics tool, or any other type of Web App. From idea to production in 5 minutes.
 
@@ -12,7 +12,7 @@ The Django boilerplate has all you need to build your SaaS, Analytics tool, or a
 
 <br />
 
-| Free Version                            | [PRO Version](https://appseed.us/product/rocket-pro/django/)  | [Custom Development](https://appseed.us/custom-development/) |  
+| [Free Version](https://appseed.us/product/rocket/django/)          | [PRO Version](https://appseed.us/product/rocket-pro/django/)  | [Custom Development](https://appseed.us/custom-development/) |  
 | --------------------------------------| --------------------------------------| --------------------------------------|
 | ✓ **Django 4.2.9**                                                  | **Everything in Free**, plus:                                                       | **Everything in PRO**, plus:         |
 | ✓ Best Practices                                                    | ✅ **OAuth** `Google`, `GitHub`                                                     | ✅ **1mo Custom Development**       | 
