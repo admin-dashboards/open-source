@@ -4,6 +4,47 @@ A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/
  
 <br />
 
+## [Rocket Django](https://github.com/app-generator/rocket-django)
+
+The Django boilerplate has all you need to build your SaaS, Analytics tool, or any other type of Web App. From idea to production in 5 minutes.
+
+> **Features**: `Django` • `Tailwind` • `API` (DRF) • `Celery Beat` • `DataTables` • `Charts` • `Docker` • `CI/CD`.
+
+<br />
+
+| Free Version                            | PRO - 🛒 **[$99](https://appseed.gumroad.com/l/rocket-django)** | [Custom Development](https://appseed.us/custom-development/) |  
+| --------------------------------------| --------------------------------------| --------------------------------------|
+| ✓ **Django 4.2.9**                                                  | **Everything in Free**, plus:                                                       | **Everything in PRO**, plus:         |
+| ✓ Best Practices                                                    | ✅ **OAuth** `Google`, `GitHub`                                                     | ✅ **1mo Custom Development**       | 
+| ✓ **TailwindCSS**/`Flowbite`                                        | ✅ **Enhanced** [Charts](https://rocket-django-pro.onrender.com/charts/)            | ✅ **Team**: PM, Developer, Tester  |
+| ✓ Extended User Model                                               | ✅ **Enhanced** [DataTables](https://rocket-django-pro.onrender.com/tables/)        | ✅ Weekly Sprints                   |
+| ✓ `Simple` [Charts](https://rocket-django.onrender.com/charts/)     | ✅ **[Media Files Manager](https://rocket-django-pro.onrender.com/file-manager/)**  | ✅ Technical SPECS                  |
+| ✓ `Simple` [DataTables](https://rocket-django.onrender.com/tables/) | ✅ **Stripe** Payments                                                              | ✅ Documentation                    |
+| ✓ [API](https://rocket-django.onrender.com/api/product/) via `DRF`  | ✅ **Wagtail** CMS                                                                  | ✅ **30 days Delivery Warranty**    |
+| ✓ [Celery Beat](https://rocket-django.onrender.com/tasks/)          | ✅ **Multi-Language** (i18n) Support                                                |  -                                   |
+| ✓ `Docker`                                                          | ✅ **Sentry** `Error Reporting`                                                     |  -                                   |
+| ✓ `CI/CD` Flow via Render                                           | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)                 |  -                                   |
+| ✓ `Free Support` (GitHub Issues)                                    | ✅ `Unlimited Projects`                                                             |  -                                   |
+|  -                                                                  | ✅ `Private REPO Access`                                                            |  -                                   |
+|  -                                                                  | ✅ `Lifetime Updates`                                                               |  -                                   |
+| ------------------------------------| ------------------------------------| ------------------------------------|
+| 🚀 [LIVE Demo](https://rocket-django.onrender.com/)                | 🚀 [LIVE Demo](https://rocket-django-pro.onrender.com/) | 🛒 `Order`: **[$3,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |   
+
+![Free Django Dashboard and Admin Template - Rocket Django.](https://github-production-user-asset-6210df.s3.amazonaws.com/51070104/272299949-6f4a8fd7-7cce-472a-9566-9519db338c7d.gif)
+
+<br /> 
+
+## [Tailwind CSS React](https://www.creative-tim.com/product/material-tailwind-dashboard-react?AFFILIATE=128200) `Free Dashboard`
+
+This innovative `Material Design`, **Tailwind CSS & React** dashboard comes with a beautiful design inspired by Google's Material Design and it will help you create stunning websites & web apps to delight your clients.
+
+- 👉 [Tailwind Dashboard React](https://www.creative-tim.com/product/material-tailwind-dashboard-react?AFFILIATE=128200) - `Product page`
+- 👉 [Tailwind Dashboard React](https://demos.creative-tim.com/material-tailwind-dashboard-react/#/dashboard/home?AFFILIATE=128200) - `LIVE Demo`
+
+![Material Tailwind Dashboard React - Open-Source React Template](https://user-images.githubusercontent.com/51854817/222807058-129ddc2e-dc28-4f57-ad4b-1ab4b2aca6f4.png)
+
+<br /> 
+
 ## [Datta Able Django](https://appseed.us/product/datta-able/django/)
 
 **Datta Able** Bootstrap Lite is the most stylized Bootstrap 4 Lite Admin Template, around all other Lite/Free admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. Before developing Datta Able our key points were performance and design. 
@@ -52,36 +93,6 @@ If you are looking for an eye-catching and elegantly designed free react admin t
 This product comes with a permissive (MIT) license, `React 18+`, `Code Splitting` and `Redux toolkit`.
 
 ![Modernize MUI React - Open-source Template crafted by AdminMart.](https://user-images.githubusercontent.com/51854817/216833726-06d9eb10-ab56-4a8d-87a1-5f3f4ca141c2.jpg)
-
-<br /> 
-
-## [Rocket Django](https://github.com/app-generator/rocket-django)
-
-The Django boilerplate has all you need to build your SaaS, Analytics tool, or any other type of Web App. From idea to production in 5 minutes.
-
-> **Features**: `Django` • `Tailwind` • `API` (DRF) • `Celery Beat` • `DataTables` • `Charts` • `Docker` • `CI/CD`.
-
-<br />
-
-| Free Version                            | PRO - 🛒 **[$99](https://appseed.gumroad.com/l/rocket-django)** | [Custom Development](https://appseed.us/custom-development/) |  
-| --------------------------------------| --------------------------------------| --------------------------------------|
-| ✓ **Django 4.2.9**                                                  | **Everything in Free**, plus:                                                       | **Everything in PRO**, plus:         |
-| ✓ Best Practices                                                    | ✅ **OAuth** `Google`, `GitHub`                                                     | ✅ **1mo Custom Development**       | 
-| ✓ **TailwindCSS**/`Flowbite`                                        | ✅ **Enhanced** [Charts](https://rocket-django-pro.onrender.com/charts/)            | ✅ **Team**: PM, Developer, Tester  |
-| ✓ Extended User Model                                               | ✅ **Enhanced** [DataTables](https://rocket-django-pro.onrender.com/tables/)        | ✅ Weekly Sprints                   |
-| ✓ `Simple` [Charts](https://rocket-django.onrender.com/charts/)     | ✅ **[Media Files Manager](https://rocket-django-pro.onrender.com/file-manager/)**  | ✅ Technical SPECS                  |
-| ✓ `Simple` [DataTables](https://rocket-django.onrender.com/tables/) | ✅ **Stripe** Payments                                                              | ✅ Documentation                    |
-| ✓ [API](https://rocket-django.onrender.com/api/product/) via `DRF`  | ✅ **Wagtail** CMS                                                                  | ✅ **30 days Delivery Warranty**    |
-| ✓ [Celery Beat](https://rocket-django.onrender.com/tasks/)          | ✅ **Multi-Language** (i18n) Support                                                |  -                                   |
-| ✓ `Docker`                                                          | ✅ **Sentry** `Error Reporting`                                                     |  -                                   |
-| ✓ `CI/CD` Flow via Render                                           | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)                 |  -                                   |
-| ✓ `Free Support` (GitHub Issues)                                    | ✅ `Unlimited Projects`                                                             |  -                                   |
-|  -                                                                  | ✅ `Private REPO Access`                                                            |  -                                   |
-|  -                                                                  | ✅ `Lifetime Updates`                                                               |  -                                   |
-| ------------------------------------| ------------------------------------| ------------------------------------|
-| 🚀 [LIVE Demo](https://rocket-django.onrender.com/)                | 🚀 [LIVE Demo](https://rocket-django-pro.onrender.com/) | 🛒 `Order`: **[$3,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |   
-
-![Free Django Dashboard and Admin Template - Rocket Django.](https://github-production-user-asset-6210df.s3.amazonaws.com/51070104/272299949-6f4a8fd7-7cce-472a-9566-9519db338c7d.gif)
 
 <br /> 
 
@@ -184,17 +195,6 @@ Add in out of the box Laravel CRUD endpoints for the most widely used features i
 ![Material Dashboard React Laravel](https://github.com/admin-dashboards/open-source/assets/51854817/4db5ed30-5d30-496d-bcb8-2ec2abeb5ed4)
 
 <br />
-
-## [Tailwind CSS React](https://www.creative-tim.com/product/material-tailwind-dashboard-react?AFFILIATE=128200) `Free Dashboard`
-
-This innovative `Material Design`, **Tailwind CSS & React** dashboard comes with a beautiful design inspired by Google's Material Design and it will help you create stunning websites & web apps to delight your clients.
-
-- 👉 [Tailwind Dashboard React](https://www.creative-tim.com/product/material-tailwind-dashboard-react?AFFILIATE=128200) - `Product page`
-- 👉 [Tailwind Dashboard React](https://demos.creative-tim.com/material-tailwind-dashboard-react/#/dashboard/home?AFFILIATE=128200) - `LIVE Demo`
-
-![Material Tailwind Dashboard React - Open-Source React Template](https://user-images.githubusercontent.com/51854817/222807058-129ddc2e-dc28-4f57-ad4b-1ab4b2aca6f4.png)
-
-<br /> 
 
 ## [Black Dashboard](https://www.creative-tim.com/product/black-dashboard-react?AFFILIATE=128200) `React`
 
