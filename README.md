@@ -4,7 +4,7 @@ A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/
  
 <br />
 
-## [Rocket Django](https://appseed.us/product/rocket/django/)
+## [Rocket Django](https://appseed.us/product/rocket/django/) `TailwindCSS`
 
 The Django boilerplate has all you need to build your SaaS, Analytics tool, or any other type of Web App. From idea to production in 5 minutes.
 
