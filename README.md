@@ -9,7 +9,10 @@ A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/
 Open-source **Django** project crafted on top of **[AdminLTE](https://appseed.us/product/adminlte/django/)**, an open-source and iconic `Bootstrap` design.
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
 
-> **Features**: `Django` • `Bootstrap` • `API` (DRF) • `Celery Beat` • `DataTables` • `Charts` • `Docker` • `CI/CD`.
+- 👉 [Django AdminLTE](https://appseed.us/product/adminlte/django/) - `Product page`
+- 👉 [Django AdminLTE](https://adminlte-django.appseed-srv1.com/) - `LIVE Demo`
+
+<br />
 
 | [Free Version](https://appseed.us/product/adminlte/django/)                          | [AdminLTE PRO](https://appseed.us/product/adminlte-pro/django/)    | [Custom Development](https://appseed.us/custom-development/) |  
 | --------------------------------------| --------------------------------------| --------------------------------------|
