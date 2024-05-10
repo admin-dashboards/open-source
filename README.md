@@ -28,7 +28,7 @@ The Django boilerplate has all you need to build your SaaS, Analytics tool, or a
 |  -                                                                  | ✅ `Private REPO Access`                                                            |  -                                   |
 |  -                                                                  | ✅ `Lifetime Updates`                                                               |  -                                   |
 | ------------------------------------| ------------------------------------| ------------------------------------|
-| 🚀 [LIVE Demo](https://rocket-django.onrender.com/)                | 🚀 [LIVE Demo](https://rocket-django-pro.onrender.com/) | 🛒 `Order`: **[$4,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |   
+| 🚀 [LIVE Demo](https://rocket-django.onrender.com/)                | 🚀 [LIVE Demo](https://rocket-django-pro.onrender.com/) | 🛒 `Order`: **[$3,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |   
 
 <br />
 
