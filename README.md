@@ -21,14 +21,14 @@ The Django boilerplate has all you need to build your SaaS, Analytics tool, or a
 | ✓ [Charts](https://rocket-django.onrender.com/charts/)              | ✅ **Media Files Manager**                                                          | ✅ Technical SPECS                  |
 | ✓ [DataTables](https://rocket-django.onrender.com/tables/)          | ✅ **Stripe** Payments                                                              | ✅ Documentation                    |
 | ✓ [API](https://rocket-django.onrender.com/api/product/) via `DRF`  | ✅ **React** / `ApexCharts` Integration                                             | ✅ **30 days Delivery Warranty**    |
-| ✓ [Celery](https://rocket-django.onrender.com/tasks/)               | ✅ **Multi-Language** (i18n) Support                                                | ✅ CI/CD for AWS, DO (extra)        |
+| ✓ [Celery](https://rocket-django.onrender.com/tasks/)               | ✅ **Multi-Language** (i18n) Support                                                | ✅ [CI/CD for AWS, DO](https://appseed.us/terms/#section-ci-cd) **(Extra)**    |
 | ✓ `Docker`                                                          | ✅ **Sentry** `Error Reporting`                                                     |  -                                   |
 | ✓ `CI/CD` Flow via Render                                           | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)                 |  -                                   |
 | ✓ `Free Support` (GitHub Issues)                                    | ✅ `Unlimited Projects`                                                             |  -                                   |
 | -                                                                   | ✅ `Private REPO Access`                                                            |  -                                   |
 | -                                                                   | ✅ `Lifetime Updates`                                                               |  -                                   |
 | ------------------------------------| ------------------------------------| ------------------------------------|
-| 🚀 [LIVE Demo](https://rocket-django.onrender.com/)                | 🚀 [LIVE Demo](https://rocket-django-pro.onrender.com/) (PRO) | 🛒 `Order`: **[$999](https://appseed.gumroad.com/l/rocket-package-week)** (GUMROAD) |      
+| ✓ [Rocket Demo](https://rocket-django.onrender.com/)                | 🚀 **[Rocket PRO Demo](https://rocket-django-pro.onrender.com/)** | 🛒 `Order`: **[$999](https://appseed.gumroad.com/l/rocket-package-week)** (GUMROAD) |  
 
 <br />
 
