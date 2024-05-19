@@ -36,19 +36,6 @@ The Django boilerplate has all you need to build your SaaS, Analytics tool, or a
 
 <br />
 
-## [Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) `Laravel`
-
-With [Laravel Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) , you're getting a fast and easy way to build Laravel apps, easily style them with `Tailwind` and write `Livewire` components with a dash of `Alpine.js`.  
-
-This free starter `takes care of` **authentication** and **user profile features** right out-of-the-box. No more writing boring code, you can now focus on the more complex aspects of your app. 
-
-- 👉 *Frontend ONLY Version*: [Soft UI Dashboard Tailwind](https://www.creative-tim.com/product/soft-ui-dashboard-tailwind?AFFILIATE=128200) `v1.0.3`
-- 🎁 More [Laravel Starters](https://www.creative-tim.com/templates/laravel-free?AFFILIATE=128200) - `all free`
-
-[![Soft UI Dashboard TALL Free](https://user-images.githubusercontent.com/51854817/222227022-a3c6f1dd-a948-4fa3-846a-507a494cb5c2.jpg)](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200)
-
-<br /> 
-
 ## [Vision UI React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) `MUI`
 
 Designed for those who like modern UI elements and beautiful websites. Made of hundreds of elements, designed blocks, and fully coded pages, Vision UI Dashboard React is ready to help you create stunning websites and web apps.
@@ -60,7 +47,20 @@ This Free MUI Dashboard comes with prebuilt design blocks, so the development pr
 
 ![Vision UI React - Free MUI Dashboard](https://github.com/admin-dashboards/react-dashboards/assets/51854817/c3ba1ba0-ae95-452a-b2f9-1945a97b5752)
 
-<br /> 
+<br />
+
+## [Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) `Laravel`
+
+With [Laravel Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) , you're getting a fast and easy way to build Laravel apps, easily style them with `Tailwind` and write `Livewire` components with a dash of `Alpine.js`.  
+
+This free starter `takes care of` **authentication** and **user profile features** right out-of-the-box. No more writing boring code, you can now focus on the more complex aspects of your app. 
+
+- 👉 *Frontend ONLY Version*: [Soft UI Dashboard Tailwind](https://www.creative-tim.com/product/soft-ui-dashboard-tailwind?AFFILIATE=128200) `v1.0.3`
+- 🎁 More [Laravel Starters](https://www.creative-tim.com/templates/laravel-free?AFFILIATE=128200) - `all free`
+
+[![Soft UI Dashboard TALL Free](https://user-images.githubusercontent.com/51854817/222227022-a3c6f1dd-a948-4fa3-846a-507a494cb5c2.jpg)](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200)
+
+<br />  
 
 ## [Django AdminLTE](https://appseed.us/product/adminlte/django/)
 
