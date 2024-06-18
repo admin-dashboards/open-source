@@ -4,37 +4,6 @@ A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/
  
 <br />
 
-## [Django AdminLTE](https://appseed.us/product/adminlte/django/)
-
-Open-source **Django** project crafted on top of **[AdminLTE](https://appseed.us/product/adminlte/django/)**, an open-source and iconic `Bootstrap` design.
-The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
-
-- 👉 [Django AdminLTE](https://appseed.us/product/adminlte/django/) - `Product page`
-- 👉 [Django AdminLTE](https://adminlte-django.appseed-srv1.com/) - `LIVE Demo`
-
-<br />
-
-| [Free Version](https://appseed.us/product/adminlte/django/)                          | [AdminLTE PRO](https://appseed.us/product/adminlte-pro/django/)    | [Custom Development](https://appseed.us/custom-development/) |  
-| --------------------------------------| --------------------------------------| --------------------------------------|
-| ✓ **Django 4.2.9**                    | **Everything in Free**, plus:                                        | **Everything in PRO**, plus:         |
-| ✓ Best Practices                      | ✅ **Premium Bootstrap 5 Design**                                    | ✅ **1mo Custom Development**       | 
-| ✓ Bootstrap 5, `Material` Design      | ✅ `OAuth` Google, GitHub                                            | ✅ **Team**: PM, Developer, Tester  |
-| ✓ `CI/CD` Flow via Render             | ✅ `API`, **Charts**                                                 | ✅ Weekly Sprints                   |
-| ✓ `Docker`                            | ✅ **DataTables** (Filters, Export)                                  | ✅ Technical SPECS                  |
-| -                                     |✅ **Celery**                                                         | ✅ Documentation                    |
-| -                                     | ✅ **Media Files Manager**                                           | ✅ **30 days Delivery Warranty**    |
-| -                                     | ✅ **Extended User Profiles**                                        |  -                                   |
-| -                                     | ✅ `Private REPO Access`                                             |  -                                   |
-| -                                     | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)  |  -                                   |
-| -                                     | ✅ [AWS, DO, Azure Deploy Assistance](https://deploypro.dev/)        |  -                                   |
-| ------------------------------------  | ------------------------------------                                 | ------------------------------------|
-| ✓ [LIVE Demo](https://adminlte-django.appseed-srv1.com/)  | 🚀 [LIVE Demo](https://django-adminlte-pro.onrender.com/) | 🛒 `Order`: **[$4,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |   
-
-
-![Django AdminLTE - Open-Source Django Starter ](https://github.com/app-generator/django-adminlte/assets/51070104/8f0c396d-2f33-46b9-9689-2982c987399d)
-
-<br />
-
 ## [Rocket Django](https://appseed.us/product/rocket/django/) `Tailwind`
 
 The Django boilerplate has all you need to build your SaaS, Analytics tool, or any other type of Web App. From idea to production in 5 minutes.
@@ -67,19 +36,6 @@ The Django boilerplate has all you need to build your SaaS, Analytics tool, or a
 
 <br />
 
-## [Vision UI React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) `MUI`
-
-Designed for those who like modern UI elements and beautiful websites. Made of hundreds of elements, designed blocks, and fully coded pages, Vision UI Dashboard React is ready to help you create stunning websites and web apps.
-
-This Free MUI Dashboard comes with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
-
-- 👉 [Vision UI React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) - `product page`
-- 👉 [Vision UI React](https://demos.creative-tim.com/vision-ui-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
-
-![Vision UI React - Free MUI Dashboard](https://github.com/admin-dashboards/react-dashboards/assets/51854817/c3ba1ba0-ae95-452a-b2f9-1945a97b5752)
-
-<br />
-
 ## [Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) `Laravel`
 
 With [Laravel Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) , you're getting a fast and easy way to build Laravel apps, easily style them with `Tailwind` and write `Livewire` components with a dash of `Alpine.js`.  
@@ -92,6 +48,50 @@ This free starter `takes care of` **authentication** and **user profile features
 [![Soft UI Dashboard TALL Free](https://user-images.githubusercontent.com/51854817/222227022-a3c6f1dd-a948-4fa3-846a-507a494cb5c2.jpg)](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200)
 
 <br />  
+
+## [Django AdminLTE](https://appseed.us/product/adminlte/django/)
+
+Open-source **Django** project crafted on top of **[AdminLTE](https://appseed.us/product/adminlte/django/)**, an open-source and iconic `Bootstrap` design.
+The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
+
+- 👉 [Django AdminLTE](https://appseed.us/product/adminlte/django/) - `Product page`
+- 👉 [Django AdminLTE](https://adminlte-django.appseed-srv1.com/) - `LIVE Demo`
+
+<br />
+
+| [Free Version](https://appseed.us/product/adminlte/django/)                          | [AdminLTE PRO](https://appseed.us/product/adminlte-pro/django/)    | [Custom Development](https://appseed.us/custom-development/) |  
+| --------------------------------------| --------------------------------------| --------------------------------------|
+| ✓ **Django 4.2.9**                    | **Everything in Free**, plus:                                        | **Everything in PRO**, plus:         |
+| ✓ Best Practices                      | ✅ **Premium Bootstrap 5 Design**                                    | ✅ **1mo Custom Development**       | 
+| ✓ Bootstrap 5, `Material` Design      | ✅ `OAuth` Google, GitHub                                            | ✅ **Team**: PM, Developer, Tester  |
+| ✓ `CI/CD` Flow via Render             | ✅ `API`, **Charts**                                                 | ✅ Weekly Sprints                   |
+| ✓ `Docker`                            | ✅ **DataTables** (Filters, Export)                                  | ✅ Technical SPECS                  |
+| -                                     |✅ **Celery**                                                         | ✅ Documentation                    |
+| -                                     | ✅ **Media Files Manager**                                           | ✅ **30 days Delivery Warranty**    |
+| -                                     | ✅ **Extended User Profiles**                                        |  -                                   |
+| -                                     | ✅ `Private REPO Access`                                             |  -                                   |
+| -                                     | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)  |  -                                   |
+| -                                     | ✅ [AWS, DO, Azure Deploy Assistance](https://deploypro.dev/)        |  -                                   |
+| ------------------------------------  | ------------------------------------                                 | ------------------------------------|
+| ✓ [LIVE Demo](https://adminlte-django.appseed-srv1.com/)  | 🚀 [LIVE Demo](https://django-adminlte-pro.onrender.com/) | 🛒 `Order`: **[$4,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |   
+
+
+![Django AdminLTE - Open-Source Django Starter ](https://github.com/app-generator/django-adminlte/assets/51070104/8f0c396d-2f33-46b9-9689-2982c987399d)
+
+<br />
+
+## [Vision UI React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) `MUI`
+
+Designed for those who like modern UI elements and beautiful websites. Made of hundreds of elements, designed blocks, and fully coded pages, Vision UI Dashboard React is ready to help you create stunning websites and web apps.
+
+This Free MUI Dashboard comes with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+
+- 👉 [Vision UI React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) - `product page`
+- 👉 [Vision UI React](https://demos.creative-tim.com/vision-ui-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
+
+![Vision UI React - Free MUI Dashboard](https://github.com/admin-dashboards/react-dashboards/assets/51854817/c3ba1ba0-ae95-452a-b2f9-1945a97b5752)
+
+<br />
 
 ## [Modernize MUI React](https://adminmart.com/product/modernize-free-react-mui-dashboard/?ref=1)
 
