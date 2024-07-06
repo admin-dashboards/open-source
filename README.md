@@ -4,37 +4,6 @@ A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/
  
 <br />
 
-## [Django AdminLTE](https://appseed.us/product/adminlte/django/)
-
-Open-source **Django** project crafted on top of **[AdminLTE](https://appseed.us/product/adminlte/django/)**, an open-source and iconic `Bootstrap` design.
-The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
-
-- 👉 [Django AdminLTE](https://appseed.us/product/adminlte/django/) - `Product page`
-- 👉 [Django AdminLTE](https://adminlte-django.appseed-srv1.com/) - `LIVE Demo`
-
-<br />
-
-| [Free Version](https://appseed.us/product/adminlte/django/)                          | [AdminLTE PRO](https://appseed.us/product/adminlte-pro/django/)    | [Custom Development](https://appseed.us/custom-development/) |  
-| --------------------------------------| --------------------------------------| --------------------------------------|
-| ✓ **Django 4.2.9**                    | **Everything in Free**, plus:                                        | **Everything in PRO**, plus:         |
-| ✓ Best Practices                      | ✅ **Premium Bootstrap 5 Design**                                    | ✅ **1mo Custom Development**       | 
-| ✓ Bootstrap 5, `Material` Design      | ✅ `OAuth` Google, GitHub                                            | ✅ **Team**: PM, Developer, Tester  |
-| ✓ `CI/CD` Flow via Render             | ✅ `API`, **Charts**                                                 | ✅ Weekly Sprints                   |
-| ✓ `Docker`                            | ✅ **DataTables** (Filters, Export)                                  | ✅ Technical SPECS                  |
-| -                                     |✅ **Celery**                                                         | ✅ Documentation                    |
-| -                                     | ✅ **Media Files Manager**                                           | ✅ **30 days Delivery Warranty**    |
-| -                                     | ✅ **Extended User Profiles**                                        |  -                                   |
-| -                                     | ✅ `Private REPO Access`                                             |  -                                   |
-| -                                     | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)  |  -                                   |
-| -                                     | ✅ [AWS, DO, Azure Deploy Assistance](https://deploypro.dev/)        |  -                                   |
-| ------------------------------------  | ------------------------------------                                 | ------------------------------------|
-| ✓ [LIVE Demo](https://adminlte-django.appseed-srv1.com/)  | 🚀 [LIVE Demo](https://django-adminlte-pro.onrender.com/) | 🛒 `Order`: **[$4,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |   
-
-
-![Django AdminLTE - Open-Source Django Starter ](https://github.com/app-generator/django-adminlte/assets/51070104/8f0c396d-2f33-46b9-9689-2982c987399d)
-
-<br />
-
 ## [Rocket Django](https://appseed.us/product/rocket/django/) `Tailwind`
 
 The Django boilerplate has all you need to build your SaaS, Analytics tool, or any other type of Web App. From idea to production in 5 minutes.
@@ -66,6 +35,37 @@ The Django boilerplate has all you need to build your SaaS, Analytics tool, or a
 ![Free Django Dashboard and Admin Template - Rocket Django.](https://github-production-user-asset-6210df.s3.amazonaws.com/51070104/272299949-6f4a8fd7-7cce-472a-9566-9519db338c7d.gif)
 
 <br /> 
+
+## [Django AdminLTE](https://appseed.us/product/adminlte/django/)
+
+Open-source **Django** project crafted on top of **[AdminLTE](https://appseed.us/product/adminlte/django/)**, an open-source and iconic `Bootstrap` design.
+The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
+
+- 👉 [Django AdminLTE](https://appseed.us/product/adminlte/django/) - `Product page`
+- 👉 [Django AdminLTE](https://adminlte-django.appseed-srv1.com/) - `LIVE Demo`
+
+<br />
+
+| [Free Version](https://appseed.us/product/adminlte/django/)                          | [AdminLTE PRO](https://appseed.us/product/adminlte-pro/django/)    | [Custom Development](https://appseed.us/custom-development/) |  
+| --------------------------------------| --------------------------------------| --------------------------------------|
+| ✓ **Django 4.2.9**                    | **Everything in Free**, plus:                                        | **Everything in PRO**, plus:         |
+| ✓ Best Practices                      | ✅ **Premium Bootstrap 5 Design**                                    | ✅ **1mo Custom Development**       | 
+| ✓ Bootstrap 5, `Material` Design      | ✅ `OAuth` Google, GitHub                                            | ✅ **Team**: PM, Developer, Tester  |
+| ✓ `CI/CD` Flow via Render             | ✅ `API`, **Charts**                                                 | ✅ Weekly Sprints                   |
+| ✓ `Docker`                            | ✅ **DataTables** (Filters, Export)                                  | ✅ Technical SPECS                  |
+| -                                     |✅ **Celery**                                                         | ✅ Documentation                    |
+| -                                     | ✅ **Media Files Manager**                                           | ✅ **30 days Delivery Warranty**    |
+| -                                     | ✅ **Extended User Profiles**                                        |  -                                   |
+| -                                     | ✅ `Private REPO Access`                                             |  -                                   |
+| -                                     | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)  |  -                                   |
+| -                                     | ✅ [AWS, DO, Azure Deploy Assistance](https://deploypro.dev/)        |  -                                   |
+| ------------------------------------  | ------------------------------------                                 | ------------------------------------|
+| ✓ [LIVE Demo](https://adminlte-django.appseed-srv1.com/)  | 🚀 [LIVE Demo](https://django-adminlte-pro.onrender.com/) | 🛒 `Order`: **[$4,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |   
+
+
+![Django AdminLTE - Open-Source Django Starter ](https://github.com/app-generator/django-adminlte/assets/51070104/8f0c396d-2f33-46b9-9689-2982c987399d)
+
+<br />
 
 ## [Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) `Laravel`
 
