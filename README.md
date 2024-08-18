@@ -4,62 +4,6 @@ A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/
  
 <br />
 
-## [Rocket Django](https://appseed.us/product/rocket/django/) `Tailwind`
-
-The Django boilerplate has all you need to build your SaaS, Analytics tool, or any other type of Web App. From idea to production in 5 minutes.
-
-> **Features**: `Django` • `Tailwind` • `API` (DRF) • `Celery Beat` • `DataTables` • `Charts` • `Docker` • `CI/CD`.
-
-<br />
-
-| [Free Version](https://appseed.us/product/rocket/django/)           | [PRO Version](https://appseed.us/product/rocket-pro/django/) | [Custom Development](https://appseed.us/custom-development/) |  
-| --------------------------------------| --------------------------------------| --------------------------------------|
-| ✓ **Django 4.2.9**                                                   | **Everything in Free**, plus:                                                  | **Everything in PRO**, plus:         |
-| ✓ **Best Practices**, `Modular Codebase`                             | ✅ **OAuth** `GitHub`                                                         | ✅ **1 Week** `Custom Development`  | 
-| ✓ **TailwindCSS**/`Flowbite`                                         | ✅ **Media Files Manager**                                                    | ✅ **Team**: PM, Developer, Tester  |
-| ✓ Extended User Model                                                | ✅ **React** / `ApexCharts`                                                   | ✅ Weekly Sprints                   |
-| ✓ `Simple` [Charts](https://rocket-django.onrender.com/charts/)      | ✅ **Enhanced** [Charts](https://rocket-django-pro.onrender.com/charts/)      | ✅ Technical SPECS                  |
-| ✓ `Simple` [DataTables](https://rocket-django.onrender.com/tables/)  | ✅ **Enhanced** [DataTables](https://rocket-django-pro.onrender.com/tables/)  | ✅ Documentation                    |
-| ✓ [API](https://rocket-django.onrender.com/api/product/) via `DRF`   | ✅ **Multi-Language** (i18n)                                                  | ✅ **30 days Delivery Warranty**    |
-| ✓ `Docker`                                                           | ✅ **Sentry** `Error Reporting`                                               | ✅ [CI/CD for AWS, DO](https://appseed.us/terms/#section-ci-cd) **(Extra)**    |
-| ✓ `Free Support` (GitHub Issues)                                     | ✅ **[Celery](https://rocket-django.onrender.com/tasks/)** (async tasks)      |  -                                   |
-| -                                                                    | ✅ **[Premium Support](https://appseed.us/support/)**                         |  -                                   |
-| -                                                                    | ✅ `Unlimited Projects` & **SaaS**                                            |  -                                   |
-| -                                                                    | ✅ `Private REPO Access`                                                      |  -                                   |
-| -                                                                    | ✅ `Lifetime Updates`                                                         |  -                                   |
-| ------------------------------------| ------------------------------------| ------------------------------------|
-| ✓ [Rocket Demo](https://rocket-django.onrender.com/)                | 🚀 **[Rocket PRO Demo](https://rocket-django-pro.onrender.com/)** | **[Get in Touch ➡️](https://appseed.us/custom-development/)** |   
-
-<br />
-
-## [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200)
-
-Material Dashboard 2 React is an open-source MUI Admin Template based on React. Material Dashboard 2 React is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
-
-- 👉 [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) - `product page`
-- 👉 [Material Dashboard React](https://demos.creative-tim.com/material-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
-
-![Material Dashboard React - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51854817/178092547-a0bdd527-26f0-432f-9110-e29f17d22329.png)
-
-<br /> 
-
-![Free Django Dashboard and Admin Template - Rocket Django.](https://github-production-user-asset-6210df.s3.amazonaws.com/51070104/272299949-6f4a8fd7-7cce-472a-9566-9519db338c7d.gif)
-
-<br /> 
-
-## [Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) `Laravel`
-
-With [Laravel Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) , you're getting a fast and easy way to build Laravel apps, easily style them with `Tailwind` and write `Livewire` components with a dash of `Alpine.js`.  
-
-This free starter `takes care of` **authentication** and **user profile features** right out-of-the-box. No more writing boring code, you can now focus on the more complex aspects of your app. 
-
-- 👉 *Frontend ONLY Version*: [Soft UI Dashboard Tailwind](https://www.creative-tim.com/product/soft-ui-dashboard-tailwind?AFFILIATE=128200) `v1.0.3`
-- 🎁 More [Laravel Starters](https://www.creative-tim.com/templates/laravel-free?AFFILIATE=128200) - `all free`
-
-[![Soft UI Dashboard TALL Free](https://user-images.githubusercontent.com/51854817/222227022-a3c6f1dd-a948-4fa3-846a-507a494cb5c2.jpg)](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200)
-
-<br />
-
 ## [Django AdminLTE](https://appseed.us/product/adminlte/django/)
 
 Open-source **Django** project crafted on top of **[AdminLTE](https://appseed.us/product/adminlte/django/)**, an open-source and iconic `Bootstrap` design.
@@ -88,6 +32,62 @@ The product is designed to deliver the best possible user experience with highly
 
 
 ![Django AdminLTE - Open-Source Django Starter ](https://github.com/app-generator/django-adminlte/assets/51070104/8f0c396d-2f33-46b9-9689-2982c987399d)
+
+<br />
+
+## [Rocket Django](https://appseed.us/product/rocket/django/) `Tailwind`
+
+The Django boilerplate has all you need to build your SaaS, Analytics tool, or any other type of Web App. From idea to production in 5 minutes.
+
+> **Features**: `Django` • `Tailwind` • `API` (DRF) • `Celery Beat` • `DataTables` • `Charts` • `Docker` • `CI/CD`.
+
+<br />
+
+| [Free Version](https://appseed.us/product/rocket/django/)           | [PRO Version](https://appseed.us/product/rocket-pro/django/) | [Custom Development](https://appseed.us/custom-development/) |  
+| --------------------------------------| --------------------------------------| --------------------------------------|
+| ✓ **Django 4.2.9**                                                   | **Everything in Free**, plus:                                                  | **Everything in PRO**, plus:         |
+| ✓ **Best Practices**, `Modular Codebase`                             | ✅ **OAuth** `GitHub`                                                         | ✅ **1 Week** `Custom Development`  | 
+| ✓ **TailwindCSS**/`Flowbite`                                         | ✅ **Media Files Manager**                                                    | ✅ **Team**: PM, Developer, Tester  |
+| ✓ Extended User Model                                                | ✅ **React** / `ApexCharts`                                                   | ✅ Weekly Sprints                   |
+| ✓ `Simple` [Charts](https://rocket-django.onrender.com/charts/)      | ✅ **Enhanced** [Charts](https://rocket-django-pro.onrender.com/charts/)      | ✅ Technical SPECS                  |
+| ✓ `Simple` [DataTables](https://rocket-django.onrender.com/tables/)  | ✅ **Enhanced** [DataTables](https://rocket-django-pro.onrender.com/tables/)  | ✅ Documentation                    |
+| ✓ [API](https://rocket-django.onrender.com/api/product/) via `DRF`   | ✅ **Multi-Language** (i18n)                                                  | ✅ **30 days Delivery Warranty**    |
+| ✓ `Docker`                                                           | ✅ **Sentry** `Error Reporting`                                               | ✅ [CI/CD for AWS, DO](https://appseed.us/terms/#section-ci-cd) **(Extra)**    |
+| ✓ `Free Support` (GitHub Issues)                                     | ✅ **[Celery](https://rocket-django.onrender.com/tasks/)** (async tasks)      |  -                                   |
+| -                                                                    | ✅ **[Premium Support](https://appseed.us/support/)**                         |  -                                   |
+| -                                                                    | ✅ `Unlimited Projects` & **SaaS**                                            |  -                                   |
+| -                                                                    | ✅ `Private REPO Access`                                                      |  -                                   |
+| -                                                                    | ✅ `Lifetime Updates`                                                         |  -                                   |
+| ------------------------------------| ------------------------------------| ------------------------------------|
+| ✓ [Rocket Demo](https://rocket-django.onrender.com/)                | 🚀 **[Rocket PRO Demo](https://rocket-django-pro.onrender.com/)** | **[Get in Touch ➡️](https://appseed.us/custom-development/)** |   
+
+<br />
+
+![Free Django Dashboard and Admin Template - Rocket Django.](https://github-production-user-asset-6210df.s3.amazonaws.com/51070104/272299949-6f4a8fd7-7cce-472a-9566-9519db338c7d.gif)
+
+<br /> 
+
+## [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200)
+
+Material Dashboard 2 React is an open-source MUI Admin Template based on React. Material Dashboard 2 React is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
+
+- 👉 [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) - `product page`
+- 👉 [Material Dashboard React](https://demos.creative-tim.com/material-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
+
+![Material Dashboard React - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51854817/178092547-a0bdd527-26f0-432f-9110-e29f17d22329.png)
+
+<br /> 
+
+## [Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) `Laravel`
+
+With [Laravel Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) , you're getting a fast and easy way to build Laravel apps, easily style them with `Tailwind` and write `Livewire` components with a dash of `Alpine.js`.  
+
+This free starter `takes care of` **authentication** and **user profile features** right out-of-the-box. No more writing boring code, you can now focus on the more complex aspects of your app. 
+
+- 👉 *Frontend ONLY Version*: [Soft UI Dashboard Tailwind](https://www.creative-tim.com/product/soft-ui-dashboard-tailwind?AFFILIATE=128200) `v1.0.3`
+- 🎁 More [Laravel Starters](https://www.creative-tim.com/templates/laravel-free?AFFILIATE=128200) - `all free`
+
+[![Soft UI Dashboard TALL Free](https://user-images.githubusercontent.com/51854817/222227022-a3c6f1dd-a948-4fa3-846a-507a494cb5c2.jpg)](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200)
 
 <br />
 
