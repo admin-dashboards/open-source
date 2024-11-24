@@ -4,6 +4,20 @@ A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/
  
 <br />
 
+## [Django Rocket](https://app-generator.dev/product/rocket/django/) `Tailwind`
+
+The Django boilerplate has all you need to build your SaaS, Analytics tool, or any other type of Web App. From idea to production in 5 minutes.
+
+> **Features**: `Django` • `Tailwind` • `API` (DRF) • `Celery Beat` • `DataTables` • `Charts` • `Docker` • `CI/CD`.
+
+- 👉 [Django Rocket](https://app-generator.dev/docs/products/django/rocket/index.html) - **Complete Documentation**
+- 👉 [Django Rocket](https://rocket-django.onrender.com) - LIVE Demo 
+- 👉 [Get Support](https://app-generator.dev/ticket/create/) via Email and Discord
+  
+![Django Rocket - Open-Source Django Starter styled with Tailwind](https://github.com/user-attachments/assets/d7527d5e-046c-4679-8f72-525290a5edd5)
+
+<br /> 
+
 ## [Django AdminLTE](https://app-generator.dev/product/adminlte/django/)
 
 Open-source **Django** project crafted on top of **AdminLTE**, an open-source and iconic `Bootstrap` design.
@@ -29,19 +43,6 @@ This free starter `takes care of` **authentication** and **user profile features
 [![Soft UI Dashboard TALL Free](https://user-images.githubusercontent.com/51854817/222227022-a3c6f1dd-a948-4fa3-846a-507a494cb5c2.jpg)](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200)
 
 <br />
-
-## [Rocket Django](https://appseed.us/product/rocket/django/) `Tailwind`
-
-The Django boilerplate has all you need to build your SaaS, Analytics tool, or any other type of Web App. From idea to production in 5 minutes.
-
-> **Features**: `Django` • `Tailwind` • `API` (DRF) • `Celery Beat` • `DataTables` • `Charts` • `Docker` • `CI/CD`.
-
-- 👉 [Rocket Django](https://appseed.us/product/rocket/django/) - Product page
-- 👉 [Rocket Django](https://rocket-django.onrender.com/) - Live Demo
-  
-![Free Django Dashboard and Admin Template - Rocket Django.](https://github-production-user-asset-6210df.s3.amazonaws.com/51070104/272299949-6f4a8fd7-7cce-472a-9566-9519db338c7d.gif)
-
-<br /> 
 
 ## [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200)
 
