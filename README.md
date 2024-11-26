@@ -4,33 +4,6 @@ A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/
  
 <br />
 
-## [Django Rocket](https://app-generator.dev/product/rocket/django/) `Tailwind`
-
-The Django boilerplate has all you need to build your SaaS, Analytics tool, or any other type of Web App. From idea to production in 5 minutes.
-
-> **Features**: `Django` • `Tailwind` • `API` (DRF) • `Celery Beat` • `DataTables` • `Charts` • `Docker` • `CI/CD`.
-
-- 👉 [Django Rocket](https://app-generator.dev/docs/products/django/rocket/index.html) - **Complete Documentation**
-- 👉 [Django Rocket](https://rocket-django.onrender.com) - LIVE Demo 
-- 👉 [Get Support](https://app-generator.dev/ticket/create/) via Email and Discord
-  
-![Django Rocket - Open-Source Django Starter styled with Tailwind](https://github.com/user-attachments/assets/d7527d5e-046c-4679-8f72-525290a5edd5)
-
-<br /> 
-
-## [Django AdminLTE](https://app-generator.dev/product/adminlte/django/)
-
-Open-source **Django** project crafted on top of **AdminLTE**, an open-source and iconic `Bootstrap` design.
-The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
-
-- 👉 [Django AdminLTE](https://app-generator.dev/docs/products/django/adminlte/index.html) - **Complete Documentation**
-- 👉 [Django AdminLTE](https://app-generator.dev/product/adminlte/django/) - Product page
-- 👉 [Django AdminLTE](https://adminlte-django.appseed-srv1.com/) - LIVE Demo
-
-![Django AdminLTE - Open-Source Django Starter ](https://github.com/app-generator/django-adminlte/assets/51070104/8f0c396d-2f33-46b9-9689-2982c987399d)
-
-<br />
-
 ## [Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) `Laravel`
 
 With [Laravel Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) , you're getting a fast and easy way to build Laravel apps, easily style them with `Tailwind` and write `Livewire` components with a dash of `Alpine.js`.  
@@ -42,6 +15,37 @@ This free starter `takes care of` **authentication** and **user profile features
 
 [![Soft UI Dashboard TALL Free](https://user-images.githubusercontent.com/51854817/222227022-a3c6f1dd-a948-4fa3-846a-507a494cb5c2.jpg)](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200)
 
+<br />
+
+## [Django AdminLTE](https://app-generator.dev/product/adminlte/django/)
+
+Open-source **Django** project crafted on top of **[AdminLTE](https://app-generator.dev/product/adminlte/django/)**, an open-source and iconic `Bootstrap` design.
+The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
+
+- 👉 [Django AdminLTE](https://app-generator.dev/product/adminlte/django/) - `Product page`
+- 👉 [Django AdminLTE](https://adminlte-django.appseed-srv1.com/) - `LIVE Demo`
+- 👉 [Django AdminLTE](https://app-generator.dev/docs/products/django/adminlte/index.html) - `Complete Information` and Support Links
+
+![Django AdminLTE - Open-Source Django Starter ](https://github.com/app-generator/django-adminlte/assets/51070104/8f0c396d-2f33-46b9-9689-2982c987399d)
+
+<br />
+## [Django Rocket](https://app-generator.dev/product/rocket/django/) `Tailwind`
+
+Open-source **Django Template styled with Tailwind CSS/Flowbite**. The product is designed to deliver the best possible developer experience with highly customizable feature-rich pages. 
+
+A common set of features is provided out-of-the-box: **API, DataTables, Charts, Extended User Model, and Docker Support** under a permissive MIT License (**unrestricted usage in hobby or commercial projects**).
+
+- 👉 [Django Rocket](https://app-generator.dev/product/rocket/django/) - `Product Page`
+- 👉 [Django Rocket](https://rocket-django.onrender.com) - `LIVE Demo` 
+- 👉 [Django Rocket Documentation](https://app-generator.dev/docs/products/django/rocket/index.html) - `Complete Information` and Support Links
+  - `Configuration`: Install Tailwind/Flowbite, Prepare Environment, Setting up the Database 
+  - `Start with Docker`
+  - `Manual Build`
+  - `Start the project`
+  - `Deploy on Render`
+
+![Django Rocket - Open-Source Django Starter styled with Tailwind/Flowbite](https://github.com/user-attachments/assets/d7527d5e-046c-4679-8f72-525290a5edd5)
+  
 <br />
 
 ## [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200)
