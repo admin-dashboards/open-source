@@ -1,6 +1,8 @@
 # Free [Admin Dashboards](https://www.admin-dashboards.com/)
 
 A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/)**, released under the MIT license and actively supported by the publishers. All mentioned templates can be used in commercial products and eLearning activities.  
+
+> *Thanks for reading!* - Content provided by **[App Generator](https://app-generator.dev/)**. 
  
 <br />
 
