@@ -6,6 +6,19 @@ A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/
  
 <br />
 
+## [Django Soft UI Dashboard](https://app-generator.dev/product/soft-ui-dashboard/django/)
+
+Open-source **[Django Dashboard](https://app-generator.dev/admin-dashboards/django/)** built on a modern design. Designed for those who like bold elements and beautiful websites, **Soft UI Dashboard** is ready to help you create stunning websites and web apps. 
+**Soft UI Dashboard** is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
+
+- 👉 [Django Soft UI Dashboard](https://app-generator.dev/product/soft-ui-dashboard/django/) - `Product Page`
+- 👉 [Django Soft UI Dashboard](https://django-soft-dash.onrender.com/) - `LIVE Demo`
+- 👉 [Django Soft UI Dashboard Documentation](https://app-generator.dev/docs/products/django/soft-ui-dashboard/index.html) - `Complete Information` and Support Links
+
+![Django Soft Dashboard - Modern template for Django Admin Section crafted on top of a modern Bootstrap 5 Design.](https://github.com/user-attachments/assets/2dd7adf3-bf5f-4894-b585-3696e7a8606f)
+
+<br />
+
 ## [Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) `Laravel`
 
 With [Laravel Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) , you're getting a fast and easy way to build Laravel apps, easily style them with `Tailwind` and write `Livewire` components with a dash of `Alpine.js`.  
