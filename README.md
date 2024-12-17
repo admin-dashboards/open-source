@@ -5,7 +5,7 @@ A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/
 > 👉 Build your starter with **[Django App Generator](https://app-generator.dev/tools/django-generator/)** and customize: `DB Tables`, `Auth`, `Async Tasks`, `Docker`, `CI/Cd Scripts`
 
 ![Django App Generator - Select Design](https://github.com/user-attachments/assets/d94dd5bf-dc5e-46c5-a69f-997ec4b46209)
-![Django App Generator - Design Database](https://github.com/user-attachments/assets/330c6ba5-6066-46f0-9d0f-c7161410eb5a)t provided by **[App Generator](https://app-generator.dev/)**. 
+![Django App Generator - Design Database](https://github.com/user-attachments/assets/330c6ba5-6066-46f0-9d0f-c7161410eb5a)
  
 <br />
 
