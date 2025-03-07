@@ -10,6 +10,7 @@ A curated list with **[Open-Source Admin Dashboards](https://app-generator.dev/a
 ![Django App Generator - Free service provided by App-Generator](https://github.com/user-attachments/assets/d13c09d9-c8e6-4e99-bbe4-eb27bd2d7c31)
  
 <br />
+
 ## [Django Datta Able](https://app-generator.dev/product/datta-able/django/)
 
 Open-source **Django** project crafted on top of **Datta Able Dashboard**, an open-source `Bootstrap` design.
