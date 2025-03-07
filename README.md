@@ -154,4 +154,4 @@ $ python manage.py dbrestore -i 20240930-001.dump  # restore
 ```
 
 --- 
-Free [Admin Dashboards](https://www.admin-dashboards.com/) - Provided by **[App Generator](https://app-generator.dev/)** Service. 
+Free [Admin Dashboards](https://app-generator.dev/admin-dashboards/) - Provided by **[App Generator](https://app-generator.dev/)** Service. 
