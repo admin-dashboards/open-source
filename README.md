@@ -1,6 +1,6 @@
 # Free [Admin Dashboards](https://www.admin-dashboards.com/)
 
-A curated list with **Open-Source [Dashboards](https://www.admin-dashboards.com/)**, released under the MIT license and actively supported by the publishers. All mentioned templates can be used in commercial products and eLearning activities.  
+A curated list with **[Open-Source Admin Dashboards](https://app-generator.dev/admin-dashboards/open-source/)**, released under the MIT license and actively supported by the publishers. All mentioned templates can be used in commercial products and eLearning activities.  
 
 > NOTE: Generate your starter on top of **Flask** and **Django** and customize: `DB Tables`, `Auth`, `Async Tasks` (Celery), `Docker`, `CI/Cd Scripts`
 
