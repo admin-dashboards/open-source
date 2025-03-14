@@ -1,13 +1,6 @@
 # Free [Admin Dashboards](https://app-generator.dev/admin-dashboards/open-source/)
 
 A curated list with **[Open-Source Admin Dashboards](https://app-generator.dev/admin-dashboards/open-source/)**, released under the MIT license and actively supported by the publishers. All mentioned templates can be used in commercial products and eLearning activities.  
-
-> NOTE: Generate your starter on top of **Flask** and **Django** and customize: `DB Tables`, `Auth`, `Async Tasks` (Celery), `Docker`, `CI/Cd Scripts`
-
-- 👉 [Django App Generator](https://app-generator.dev/tools/django-generator/) - free service 
-- 👉 [Flask App Generator](https://app-generator.dev/tools/flask-generator/) - free service
-
-![Django App Generator - Free service provided by App-Generator](https://github.com/user-attachments/assets/d13c09d9-c8e6-4e99-bbe4-eb27bd2d7c31)
  
 <br />
 
@@ -19,14 +12,18 @@ The product is designed to deliver the best possible user experience with highly
 - 👉 [Django Datta Able](https://app-generator.dev/product/datta-able/django/) - `Product Page`
 - 👉 [Django Datta Able](https://django-datta.onrender.com) - `LIVE Demo`
 
-### Features
 ---
 
 - Simple, Easy-to-Extend Codebase
-- Datta Able Design - Full Integration 
-- [Dynamic Tables](https://app-generator.dev/docs/developer-tools/dynamic-datatables.html)
-- [Dynamic API](https://app-generator.dev/docs/developer-tools/dynamic-api.html)
-- CLI for Coding Tasks
+- **Datta Able** Design Integration 
+- **Dynamic Tables** - generate data tables without coding 
+- **Dynamic API** - expose secure APIs without coding
+- **CLI for Coding Tasks**
+  - `Commit/rollback Git Changes`
+  - `Backup & restore DB`
+  - `Interact with Django Core` via CLI
+  - `Update Environment variables`
+  - `Update Dependencies`  
 - Bootstrap 5 Styling 
 - Session-based Authentication, Password recovery
 - DB Persistence: SQLite (default), can be used with MySql, PgSql
@@ -35,6 +32,30 @@ The product is designed to deliver the best possible user experience with highly
 
 ![Django Datta Able - Open-Source Django Starter](https://user-images.githubusercontent.com/51070104/176118649-7233ffbc-6118-4f56-8cda-baa81d256877.png)
 
+<br />
+
+## [Django Rocket](https://app-generator.dev/product/rocket/django/)
+
+Open-source **[Django Template styled with Tailwind CSS and Flowbite](https://app-generator.dev/product/rocket/django/)**.The product is designed to deliver the best possible developer experience with highly customizable feature-rich pages. 
+
+A common set of features is provided out-of-the-box: **API, DataTables, Charts, Extended User Model, and Docker Support** under a permissive MIT License (**unrestricted usage in hobby or commercial projects**).
+
+- 👉 [Django Rocket](https://app-generator.dev/product/rocket/django/) - `Product Page`
+- 👉 [Django Rocket](https://rocket-django.onrender.com) - `LIVE Demo`
+
+---
+
+- Styling: **Tailwind CSS/Flowbite**
+- **Extended User Model**
+- **Charts** via ApexJS
+- **Dynamic Tables** - generate data tables without coding 
+- **Dynamic API** - expose secure APIs without coding
+- Can be used with **SQLite**, **MySql**, **PostgreSQL**, **MsSql**
+- **Docker**
+- **CI/CD Integration** with Render 
+
+![Django Rocket - Open-Source Django Starter styled with Tailwind](https://github.com/user-attachments/assets/d7527d5e-046c-4679-8f72-525290a5edd5)
+  
 <br />
 
 ## [Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) `Laravel`
