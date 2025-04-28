@@ -4,6 +4,36 @@ A curated list with **[Open-Source Admin Dashboards](https://app-generator.dev/a
  
 <br />
 
+## [Django AdminLTE](https://app-generator.dev/product/adminlte/django/)
+
+**Open-source Django Starter** crafted on top of **[AdminLTE](https://app-generator.dev/product/adminlte/)**, an open-source `Bootstrap` Design. The product is designed to deliver the best possible user experience with highly customizable, feature-rich pages. 
+
+- 👉 [Django AdminLTE](https://app-generator.dev/product/adminlte/django/) - `Product Page`
+- 👉 [Django AdminLTE](https://django-adminlte.onrender.com) - `LIVE Demo`
+
+---
+
+- Simple, Easy-to-Extend Codebase
+- [AdminLTE](https://app-generator.dev/product/adminlte/) Design Integration 
+- [Bootstrap](https://app-generator.dev/docs/templates/bootstrap.html) CSS Styling 
+- Dynamic Tables - read [docs](https://app-generator.dev/docs/developer-tools/dynamic-datatables.html)
+- Dynamic API - read [docs](https://app-generator.dev/docs/developer-tools/dynamic-api.html)
+- Charts
+- [Django CLI Package](https://app-generator.dev/docs/developer-tools/django-cli/index.html)
+    - [Commit/rollback Git Changes](https://app-generator.dev/docs/developer-tools/django-cli/git-interface.html)
+    - `Backup & restore DB`
+    - [Interact with Django Core](https://app-generator.dev/docs/developer-tools/django-cli/query-django.html)
+    - `Manage Environment`
+    - `Manage Dependencies`
+- Session-based Authentication, Password recovery
+- DB Persistence: SQLite (default), can be used with MySql, PgSql
+- Docker, CI/CD for Render
+- [Integrate Vite](https://app-generator.dev/docs/technologies/vite/index.html) for assets management 
+
+![Django AdminLTE - Open-Source Django Starter ](https://github.com/app-generator/django-adminlte/assets/51070104/8f0c396d-2f33-46b9-9689-2982c987399d)
+
+<br />
+
 ## [Django Datta Able](https://app-generator.dev/product/datta-able/django/)
 
 Open-source **Django** project crafted on top of **Datta Able Dashboard**, an open-source `Bootstrap` design.
