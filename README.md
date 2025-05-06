@@ -66,6 +66,19 @@ The product is designed to deliver the best possible user experience with highly
 
 <br />
 
+## [Star Admin Bootstrap 5](https://www.bootstrapdash.com/product/star-admin-free?ref=23)
+
+Star admin is a beautifully designed admin template featuring a fine selection of useful Bootstrap components and elements. **[Star Admin](https://app-generator.dev/product/star-admin/)** has an impressive typography that compliments exceedingly with its colorful and elegant interface.
+
+- 👉 [Star Admin Bootstrap 5](https://www.bootstrapdash.com/product/star-admin-free?ref=23) - `product page`
+- 👉 [Star Admin Bootstrap 5](https://www.bootstrapdash.com/demo/star-admin2-free/template/?ref=23) - `LIVE demo`
+
+The pre-built pages of the templates are intuitive and very well-designed. Star Admin is sure to make your development process truly enjoyable.
+
+![Star Admin Bootstrap 5 - Open-Source Dashboard template.](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v7gwrxq6wqepn9sp3zni.png) 
+
+<br />
+
 ## [Django Rocket](https://app-generator.dev/product/rocket/django/)
 
 Open-source **[Django Template styled with Tailwind CSS and Flowbite](https://app-generator.dev/product/rocket/django/)**.The product is designed to deliver the best possible developer experience with highly customizable feature-rich pages. 
