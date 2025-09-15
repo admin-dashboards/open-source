@@ -4,18 +4,6 @@ A curated list with **[Open-Source Admin Dashboards](https://app-generator.dev/a
  
 <br />
 
-## 👉 [HOSTINGER](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452) - High-quality Service we recommend
-
-One of the world's fastest-growing hosting providers, **Hostinger** serves a global community of over 4 million website owners across 150+ countries. 
-**Here are the core services**:
-
-- ✅ **[HOSTING - $2.99/mo](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452)** - 3months FREE
-- ✅ **[Website Builder](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=2949)** - Build Websites in no-time
-- ✅ **[eCommerce Builder](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=4140)** - Your online store, created quickly with AI
-- ✅ **[StartUp Cloud Hosting - $7.99/mo](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=17)** - 3months FREE
-
-<br />
-
 ## [Django AdminLTE](https://app-generator.dev/product/adminlte/django/)
 
 **Open-source Django Starter** crafted on top of **[AdminLTE](https://app-generator.dev/product/adminlte/)**, an open-source `Bootstrap` Design. The product is designed to deliver the best possible user experience with highly customizable, feature-rich pages. 
@@ -45,6 +33,18 @@ One of the world's fastest-growing hosting providers, **Hostinger** serves a glo
   - CI/CD for [Render](https://app-generator.dev/docs/deployment/render/index.html)
 
 ![Django AdminLTE - Open-Source Django Starter ](https://github.com/app-generator/django-adminlte/assets/51070104/8f0c396d-2f33-46b9-9689-2982c987399d)
+
+<br />
+
+## 👉 [HOSTINGER](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452) - High-quality Service we recommend
+
+One of the world's fastest-growing hosting providers, **Hostinger** serves a global community of over 4 million website owners across 150+ countries. 
+**Here are the core services**:
+
+- ✅ **[HOSTING - $2.99/mo](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452)** - 3months FREE
+- ✅ **[Website Builder](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=2949)** - Build Websites in no-time
+- ✅ **[eCommerce Builder](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=4140)** - Your online store, created quickly with AI
+- ✅ **[StartUp Cloud Hosting - $7.99/mo](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=17)** - 3months FREE
 
 <br />
 
