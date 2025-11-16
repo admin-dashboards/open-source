@@ -4,6 +4,16 @@ A curated list with **[Open-Source Admin Dashboards](https://app-generator.dev/a
  
 <br />
 
+## `PROMO` Domains for sale
+
+- 👉 **[AppSeed.us - $49k](https://appseed.us/)**
+- 👉 **[Admin-Dashboards.com - $15k](https://www.admin-dashboards.com/)**
+- 👉 **[UI-Themes.com - $5k](https://ui-themes.com/)**
+- 👉 **[Simpllo.com - $10k](https://www.simpllo.com/)**
+- 👉 **[123SiteBuilder.net - $5k](https://www.123sitebuilder.net/)**
+
+<br />
+
 ## [Django AdminLTE](https://app-generator.dev/product/adminlte/django/)
 
 **Open-source Django Starter** crafted on top of **[AdminLTE](https://app-generator.dev/product/adminlte/)**, an open-source `Bootstrap` Design. The product is designed to deliver the best possible user experience with highly customizable, feature-rich pages. 
